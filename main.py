@@ -11,7 +11,7 @@ answer_list = []
 with open('wordlist.txt') as f:
     word_list = f.readlines()[0].split(',')
 
-# Print the list of words
+# Assemble and format the answers
 puzzle_id = 0
 date = datetime.datetime(2021, 6, 19)
 for i in range(len(word_list)):
