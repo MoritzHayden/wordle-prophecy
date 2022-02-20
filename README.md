@@ -1,6 +1,6 @@
 # Wordle Prophecy
 
-## Recent Answers (Refreshes 12:00 AM ET)
+## Recent Answers (Refreshes at 12:00 AM ET)
 
 | Date | Answer |
 | --- | --- |
