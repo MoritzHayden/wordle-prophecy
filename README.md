@@ -1,12 +1,12 @@
 # Wordle Prophecy
 
-## Recent Answers (Refreshes 12:00 AM ET)
+## Recent Answers (Refreshes at 12:00 AM ET)
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 18, 2022) | **dodge** |
-| Today (February 19, 2022) | **swill** |
-| Tomorrow (February 20, 2022) | **tacit** |
+| Yesterday (February 19, 2022) | **swill** |
+| Today (February 20, 2022) | **tacit** |
+| Tomorrow (February 21, 2022) | **other** |
 
 
 ## Table of Contents
