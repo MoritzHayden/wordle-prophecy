@@ -31,7 +31,7 @@ with open('README.md', 'w') as f:
     f.write('# Wordle Prophecy')
 
     # Write the Recent Answers section
-    f.write('\n\n## Recent Answers (Refreshes 12:00 AM ET)\n\n')
+    f.write('\n\n## Recent Answers (Refreshes at 12:00 AM ET)\n\n')
     tz = timezone('US/Eastern')
     originDate = datetime.datetime(2021, 6, 20).replace(tzinfo=tz)
     today = datetime.datetime.now(tz)
