@@ -1,6 +1,13 @@
-# About
+# Wordle Prophecy
 
-This repo contains the comprehensive list of all Wordle answers, past and future, reverse engineered from the [Wordle](https://www.nytimes.com/games/wordle/index.html) source code and compiled into [Markdown](https://daringfireball.net/projects/markdown/) using [Python](https://www.python.org/). THIS REPO CONTAINS SPOILERS!
+## Recent Answers (Refreshes 12:00 AM ET)
+
+| Date | Answer |
+| --- | --- |
+| Yesterday (February 18, 2022) | **dodge** |
+| Today (February 19, 2022) | **swill** |
+| Tomorrow (February 20, 2022) | **tacit** |
+
 
 ## Table of Contents
 
