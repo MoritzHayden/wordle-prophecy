@@ -1,0 +1,31 @@
+# This workflow updates the recent answers section with the latest answers
+name: 'Update recent asnwers section'
+
+on:
+  schedule:
+  - cron: '*/15 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+        with:
+          ref: main
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+          cache: 'pip'
+      - run: pip install pytz
+      - name: Execute Python Script
+        run: |
+          python main.py
+      - name: Commit Updated README.md
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: main
+          commit_message: Update recent answers
+          file_pattern: README.md
