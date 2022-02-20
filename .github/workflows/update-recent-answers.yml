@@ -3,7 +3,7 @@ name: 'Update recent asnwers section'
 
 on:
   schedule:
-  - cron: '*/15 * * * *'
+  - cron: '*/10 * * * *'
 
 jobs:
   update:
