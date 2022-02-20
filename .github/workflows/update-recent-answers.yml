@@ -1,5 +1,5 @@
 # This workflow updates the recent answers section with the latest answers
-name: 'Update recent asnwers section'
+name: 'Update recent answers section'
 
 on:
   schedule:
