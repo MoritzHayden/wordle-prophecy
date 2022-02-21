@@ -2,8 +2,10 @@ import datetime
 from pytz import timezone
 
 # Variables
-months_indices = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
-months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+months_indices = ['01', '02', '03', '04', '05',
+                  '06', '07', '08', '09', '10', '11', '12']
+months = ['January', 'February', 'March', 'April', 'May', 'June',
+          'July', 'August', 'September', 'October', 'November', 'December']
 years = []
 date_list = []
 answer_list = []
@@ -23,7 +25,9 @@ for i in range(len(word_list)):
     if year not in years:
         years.append(year)
     date_list.append(formatted_date)
-    answer_list.append(f'Wordle {puzzle_id} ({formatted_date}) - **{word_list[puzzle_id-1]}**')
+    formatted_date = date.strftime('%B %d, %Y')
+    answer_list.append(
+        f'Wordle {puzzle_id} ({formatted_date}) - **{word_list[puzzle_id-1]}**')
 
 # Write to file
 with open('README.md', 'w') as f:
@@ -40,9 +44,12 @@ with open('README.md', 'w') as f:
     todayDelta = (today - originDate).days
     f.write('| Date | Answer |\n')
     f.write('| --- | --- |\n')
-    f.write(f'| Yesterday ({yesterday.strftime("%B %d, %Y")}) | **{word_list[todayDelta-1]}** |\n')
-    f.write(f'| Today ({today.strftime("%B %d, %Y")}) | **{word_list[todayDelta]}** |\n')
-    f.write(f'| Tomorrow ({tomorrow.strftime("%B %d, %Y")}) | **{word_list[todayDelta+1]}** |\n')
+    f.write(
+        f'| Yesterday ({yesterday.strftime("%B %d, %Y")}) | **{word_list[todayDelta-1]}** |\n')
+    f.write(
+        f'| Today ({today.strftime("%B %d, %Y")}) | **{word_list[todayDelta]}** |\n')
+    f.write(
+        f'| Tomorrow ({tomorrow.strftime("%B %d, %Y")}) | **{word_list[todayDelta+1]}** |\n')
 
     # Write the Table of Contents section
     f.write('\n\n## Table of Contents\n')
