@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 24, 2022) | **bloke** |
-| Today (February 25, 2022) | **vivid** |
-| Tomorrow (February 26, 2022) | **spill** |
+| Yesterday (February 25, 2022) | **vivid** |
+| Today (February 26, 2022) | **spill** |
+| Tomorrow (February 27, 2022) | **chant** |
 
 
 ## Table of Contents
