@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 26, 2022) | **spill** |
-| Today (February 27, 2022) | **chant** |
-| Tomorrow (February 28, 2022) | **choke** |
+| Yesterday (February 27, 2022) | **chant** |
+| Today (February 28, 2022) | **choke** |
+| Tomorrow (March 01, 2022) | **rupee** |
 
 
 ## Table of Contents
