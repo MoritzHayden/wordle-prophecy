@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 28, 2022) | **choke** |
-| Today (March 01, 2022) | **rupee** |
-| Tomorrow (March 02, 2022) | **nasty** |
+| Yesterday (March 01, 2022) | **rupee** |
+| Today (March 02, 2022) | **nasty** |
+| Tomorrow (March 03, 2022) | **mourn** |
 
 
 ## Table of Contents
