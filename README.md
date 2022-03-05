@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 03, 2022) | **mourn** |
-| Today (March 04, 2022) | **ahead** |
-| Tomorrow (March 05, 2022) | **brine** |
+| Yesterday (March 04, 2022) | **ahead** |
+| Today (March 05, 2022) | **brine** |
+| Tomorrow (March 06, 2022) | **cloth** |
 
 
 ## Table of Contents
