@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 17, 2022) | **movie** |
-| Today (March 18, 2022) | **saute** |
-| Tomorrow (March 19, 2022) | **allow** |
+| Yesterday (March 18, 2022) | **saute** |
+| Today (March 19, 2022) | **allow** |
+| Tomorrow (March 20, 2022) | **renew** |
 
 
 ## Table of Contents
