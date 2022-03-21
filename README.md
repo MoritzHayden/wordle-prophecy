@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 19, 2022) | **allow** |
-| Today (March 20, 2022) | **renew** |
-| Tomorrow (March 21, 2022) | **their** |
+| Yesterday (March 20, 2022) | **renew** |
+| Today (March 21, 2022) | **their** |
+| Tomorrow (March 22, 2022) | **slosh** |
 
 
 ## Table of Contents
