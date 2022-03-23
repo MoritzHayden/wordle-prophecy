@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 21, 2022) | **their** |
-| Today (March 22, 2022) | **slosh** |
-| Tomorrow (March 23, 2022) | **purge** |
+| Yesterday (March 22, 2022) | **slosh** |
+| Today (March 23, 2022) | **purge** |
+| Tomorrow (March 24, 2022) | **chest** |
 
 
 ## Table of Contents
