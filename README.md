@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 24, 2022) | **chest** |
-| Today (March 25, 2022) | **depot** |
-| Tomorrow (March 26, 2022) | **epoxy** |
+| Yesterday (March 25, 2022) | **depot** |
+| Today (March 26, 2022) | **epoxy** |
+| Tomorrow (March 27, 2022) | **nymph** |
 
 
 ## Table of Contents
