@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 30, 2022) | **harry** |
-| Today (March 31, 2022) | **stove** |
-| Tomorrow (April 01, 2022) | **lowly** |
+| Yesterday (March 31, 2022) | **stove** |
+| Today (April 01, 2022) | **lowly** |
+| Tomorrow (April 02, 2022) | **snout** |
 
 
 ## Table of Contents
