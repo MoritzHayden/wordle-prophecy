@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 03, 2022) | **trope** |
-| Today (April 04, 2022) | **fewer** |
-| Tomorrow (April 05, 2022) | **shawl** |
+| Yesterday (April 04, 2022) | **fewer** |
+| Today (April 05, 2022) | **shawl** |
+| Tomorrow (April 06, 2022) | **natal** |
 
 
 ## Table of Contents
