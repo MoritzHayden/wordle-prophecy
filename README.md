@@ -1,12 +1,12 @@
 # Wordle Prophecy
 
-## Recent Answers (Refreshes at 12:00 AM CST)
+## Recent Answers (Refreshes at 12:00 AM ET)
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 06, 2022) | **natal** |
-| Today (April 07, 2022) | **comma** |
-| Tomorrow (April 08, 2022) | **foray** |
+| Yesterday (April 07, 2022) | **comma** |
+| Today (April 08, 2022) | **foray** |
+| Tomorrow (April 09, 2022) | **scare** |
 
 
 ## Table of Contents
