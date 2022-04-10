@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 08, 2022) | **foray** |
-| Today (April 09, 2022) | **scare** |
-| Tomorrow (April 10, 2022) | **stair** |
+| Yesterday (April 09, 2022) | **scare** |
+| Today (April 10, 2022) | **stair** |
+| Tomorrow (April 11, 2022) | **black** |
 
 
 ## Table of Contents
