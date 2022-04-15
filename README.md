@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 13, 2022) | **royal** |
-| Today (April 14, 2022) | **chunk** |
-| Tomorrow (April 15, 2022) | **mince** |
+| Yesterday (April 14, 2022) | **chunk** |
+| Today (April 15, 2022) | **mince** |
+| Tomorrow (April 16, 2022) | **shame** |
 
 
 ## Table of Contents
