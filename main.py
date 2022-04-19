@@ -16,7 +16,7 @@ with open('wordlist.txt') as f:
 
 # Assemble and format the answers
 puzzle_id = 0
-date = datetime.datetime(2021, 6, 19)
+date = datetime.datetime(2021, 6, 18)
 for i in range(len(word_list)):
     puzzle_id += 1
     date += datetime.timedelta(days=1)
@@ -37,7 +37,7 @@ with open('README.md', 'w') as f:
     # Write the Recent Answers section
     f.write('\n\n## Recent Answers (Refreshes at 5:00 AM UTC)\n\n')
     tz = timezone('UTC')
-    originDate = datetime.datetime(2021, 6, 20).replace(tzinfo=tz)
+    originDate = datetime.datetime(2021, 6, 19).replace(tzinfo=tz)
     today = datetime.datetime.now(tz)
     yesterday = today - datetime.timedelta(days=1)
     tomorrow = today + datetime.timedelta(days=1)
