@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 20, 2022) | **cargo** |
-| Today (April 21, 2022) | **oxide** |
-| Tomorrow (April 22, 2022) | **plant** |
+| Yesterday (April 21, 2022) | **oxide** |
+| Today (April 22, 2022) | **plant** |
+| Tomorrow (April 23, 2022) | **olive** |
 
 
 ## Table of Contents
