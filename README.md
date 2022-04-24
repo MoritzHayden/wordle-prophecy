@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 22, 2022) | **plant** |
-| Today (April 23, 2022) | **olive** |
-| Tomorrow (April 24, 2022) | **inert** |
+| Yesterday (April 23, 2022) | **olive** |
+| Today (April 24, 2022) | **inert** |
+| Tomorrow (April 25, 2022) | **askew** |
 
 
 ## Table of Contents
