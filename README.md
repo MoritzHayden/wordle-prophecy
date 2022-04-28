@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 26, 2022) | **heist** |
-| Today (April 27, 2022) | **shown** |
-| Tomorrow (April 28, 2022) | **zesty** |
+| Yesterday (April 27, 2022) | **shown** |
+| Today (April 28, 2022) | **zesty** |
+| Tomorrow (April 29, 2022) | **trash** |
 
 
 ## Table of Contents
