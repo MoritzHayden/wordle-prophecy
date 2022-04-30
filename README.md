@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 28, 2022) | **zesty** |
-| Today (April 29, 2022) | **trash** |
-| Tomorrow (April 30, 2022) | **larva** |
+| Yesterday (April 29, 2022) | **trash** |
+| Today (April 30, 2022) | **larva** |
+| Tomorrow (May 01, 2022) | **forgo** |
 
 
 ## Table of Contents
