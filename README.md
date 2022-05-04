@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 02, 2022) | **story** |
-| Today (May 03, 2022) | **hairy** |
-| Tomorrow (May 04, 2022) | **train** |
+| Yesterday (May 03, 2022) | **hairy** |
+| Today (May 04, 2022) | **train** |
+| Tomorrow (May 05, 2022) | **homer** |
 
 
 ## Table of Contents
