@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 05, 2022) | **homer** |
-| Today (May 06, 2022) | **badge** |
-| Tomorrow (May 07, 2022) | **midst** |
+| Yesterday (May 06, 2022) | **badge** |
+| Today (May 07, 2022) | **midst** |
+| Tomorrow (May 08, 2022) | **canny** |
 
 
 ## Table of Contents
