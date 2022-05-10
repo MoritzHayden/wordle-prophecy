@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 08, 2022) | **canny** |
-| Today (May 09, 2022) | **fetus** |
-| Tomorrow (May 10, 2022) | **butch** |
+| Yesterday (May 09, 2022) | **fetus** |
+| Today (May 10, 2022) | **butch** |
+| Tomorrow (May 11, 2022) | **farce** |
 
 
 ## Table of Contents
