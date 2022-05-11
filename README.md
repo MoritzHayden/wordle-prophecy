@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 09, 2022) | **shine** |
-| Today (May 10, 2022) | **gecko** |
-| Tomorrow (May 11, 2022) | **farce** |
+| Yesterday (May 10, 2022) | **gecko** |
+| Today (May 11, 2022) | **farce** |
+| Tomorrow (May 12, 2022) | **slung** |
 
 
 ## Table of Contents
