@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 12, 2022) | **slung** |
-| Today (May 13, 2022) | **tipsy** |
-| Tomorrow (May 14, 2022) | **metal** |
+| Yesterday (May 13, 2022) | **tipsy** |
+| Today (May 14, 2022) | **metal** |
+| Tomorrow (May 15, 2022) | **yield** |
 
 
 ## Table of Contents
