@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 15, 2022) | **yield** |
-| Today (May 16, 2022) | **delve** |
-| Tomorrow (May 17, 2022) | **being** |
+| Yesterday (May 16, 2022) | **delve** |
+| Today (May 17, 2022) | **being** |
+| Tomorrow (May 18, 2022) | **scour** |
 
 
 ## Table of Contents
