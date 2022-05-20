@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 18, 2022) | **scour** |
-| Today (May 19, 2022) | **glass** |
-| Tomorrow (May 20, 2022) | **gamer** |
+| Yesterday (May 19, 2022) | **glass** |
+| Today (May 20, 2022) | **gamer** |
+| Tomorrow (May 21, 2022) | **scrap** |
 
 
 ## Table of Contents
