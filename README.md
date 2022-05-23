@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 21, 2022) | **scrap** |
-| Today (May 22, 2022) | **money** |
-| Tomorrow (May 23, 2022) | **hinge** |
+| Yesterday (May 22, 2022) | **money** |
+| Today (May 23, 2022) | **hinge** |
+| Tomorrow (May 24, 2022) | **album** |
 
 
 ## Table of Contents
