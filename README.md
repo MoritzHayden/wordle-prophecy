@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 29, 2022) | **bayou** |
-| Today (May 30, 2022) | **atoll** |
-| Tomorrow (May 31, 2022) | **manor** |
+| Yesterday (May 30, 2022) | **atoll** |
+| Today (May 31, 2022) | **manor** |
+| Tomorrow (June 01, 2022) | **creak** |
 
 
 ## Table of Contents
