@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 31, 2022) | **manor** |
-| Today (June 01, 2022) | **creak** |
-| Tomorrow (June 02, 2022) | **showy** |
+| Yesterday (June 01, 2022) | **creak** |
+| Today (June 02, 2022) | **showy** |
+| Tomorrow (June 03, 2022) | **phase** |
 
 
 ## Table of Contents
