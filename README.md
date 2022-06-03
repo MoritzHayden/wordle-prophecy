@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 01, 2022) | **creak** |
-| Today (June 02, 2022) | **showy** |
-| Tomorrow (June 03, 2022) | **phase** |
+| Yesterday (June 02, 2022) | **showy** |
+| Today (June 03, 2022) | **phase** |
+| Tomorrow (June 04, 2022) | **froth** |
 
 
 ## Table of Contents
