@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 03, 2022) | **phase** |
-| Today (June 04, 2022) | **froth** |
-| Tomorrow (June 05, 2022) | **depth** |
+| Yesterday (June 04, 2022) | **froth** |
+| Today (June 05, 2022) | **depth** |
+| Tomorrow (June 06, 2022) | **gloom** |
 
 
 ## Table of Contents
