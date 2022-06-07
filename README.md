@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 05, 2022) | **depth** |
-| Today (June 06, 2022) | **gloom** |
-| Tomorrow (June 07, 2022) | **flood** |
+| Yesterday (June 06, 2022) | **gloom** |
+| Today (June 07, 2022) | **flood** |
+| Tomorrow (June 08, 2022) | **trait** |
 
 
 ## Table of Contents
