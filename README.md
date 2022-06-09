@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 07, 2022) | **flood** |
-| Today (June 08, 2022) | **trait** |
-| Tomorrow (June 09, 2022) | **girth** |
+| Yesterday (June 08, 2022) | **trait** |
+| Today (June 09, 2022) | **girth** |
+| Tomorrow (June 10, 2022) | **piety** |
 
 
 ## Table of Contents
