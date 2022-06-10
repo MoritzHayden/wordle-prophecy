@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 08, 2022) | **trait** |
-| Today (June 09, 2022) | **girth** |
-| Tomorrow (June 10, 2022) | **piety** |
+| Yesterday (June 09, 2022) | **girth** |
+| Today (June 10, 2022) | **piety** |
+| Tomorrow (June 11, 2022) | **goose** |
 
 
 ## Table of Contents
