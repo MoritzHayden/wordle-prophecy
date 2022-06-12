@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 10, 2022) | **piety** |
-| Today (June 11, 2022) | **goose** |
-| Tomorrow (June 12, 2022) | **float** |
+| Yesterday (June 11, 2022) | **goose** |
+| Today (June 12, 2022) | **float** |
+| Tomorrow (June 13, 2022) | **donor** |
 
 
 ## Table of Contents
