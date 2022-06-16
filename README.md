@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 14, 2022) | **atone** |
-| Today (June 15, 2022) | **primo** |
-| Tomorrow (June 16, 2022) | **apron** |
+| Yesterday (June 15, 2022) | **primo** |
+| Today (June 16, 2022) | **apron** |
+| Tomorrow (June 17, 2022) | **blown** |
 
 
 ## Table of Contents
