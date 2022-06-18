@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 16, 2022) | **apron** |
-| Today (June 17, 2022) | **blown** |
-| Tomorrow (June 18, 2022) | **cacao** |
+| Yesterday (June 17, 2022) | **blown** |
+| Today (June 18, 2022) | **cacao** |
+| Tomorrow (June 19, 2022) | **loser** |
 
 
 ## Table of Contents
