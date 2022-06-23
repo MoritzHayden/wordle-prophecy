@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 21, 2022) | **gloat** |
-| Today (June 22, 2022) | **awful** |
-| Tomorrow (June 23, 2022) | **brink** |
+| Yesterday (June 22, 2022) | **awful** |
+| Today (June 23, 2022) | **brink** |
+| Tomorrow (June 24, 2022) | **smite** |
 
 
 ## Table of Contents
