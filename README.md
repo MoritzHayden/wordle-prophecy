@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 25, 2022) | **beady** |
-| Today (June 26, 2022) | **rusty** |
-| Tomorrow (June 27, 2022) | **retro** |
+| Yesterday (June 26, 2022) | **rusty** |
+| Today (June 27, 2022) | **retro** |
+| Tomorrow (June 28, 2022) | **droll** |
 
 
 ## Table of Contents
