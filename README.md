@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 29, 2022) | **gawky** |
-| Today (June 30, 2022) | **hutch** |
-| Tomorrow (July 01, 2022) | **pinto** |
+| Yesterday (June 30, 2022) | **hutch** |
+| Today (July 01, 2022) | **pinto** |
+| Tomorrow (July 02, 2022) | **egret** |
 
 
 ## Table of Contents
