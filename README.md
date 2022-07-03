@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 01, 2022) | **pinto** |
-| Today (July 02, 2022) | **egret** |
-| Tomorrow (July 03, 2022) | **lilac** |
+| Yesterday (July 02, 2022) | **egret** |
+| Today (July 03, 2022) | **lilac** |
+| Tomorrow (July 04, 2022) | **sever** |
 
 
 ## Table of Contents
