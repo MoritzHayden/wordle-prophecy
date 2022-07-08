@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 06, 2022) | **fluff** |
-| Today (July 07, 2022) | **agape** |
-| Tomorrow (July 08, 2022) | **voice** |
+| Yesterday (July 07, 2022) | **agape** |
+| Today (July 08, 2022) | **voice** |
+| Tomorrow (July 09, 2022) | **stead** |
 
 
 ## Table of Contents
