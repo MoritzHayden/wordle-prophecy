@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 09, 2022) | **stead** |
-| Today (July 10, 2022) | **berth** |
-| Tomorrow (July 11, 2022) | **madam** |
+| Yesterday (July 10, 2022) | **berth** |
+| Today (July 11, 2022) | **madam** |
+| Tomorrow (July 12, 2022) | **night** |
 
 
 ## Table of Contents
