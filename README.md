@@ -1,5 +1,6 @@
 # Wordle Prophecy
 
+
 ## Recent Answers (Refreshes at 5:00 AM UTC)
 
 | Date | Answer |
