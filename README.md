@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 14, 2022) | **liver** |
-| Today (July 15, 2022) | **wedge** |
-| Tomorrow (July 16, 2022) | **roomy** |
+| Yesterday (July 15, 2022) | **wedge** |
+| Today (July 16, 2022) | **roomy** |
+| Tomorrow (July 17, 2022) | **wacky** |
 
 
 ## Table of Contents
