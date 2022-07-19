@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 17, 2022) | **wacky** |
-| Today (July 18, 2022) | **flock** |
-| Tomorrow (July 19, 2022) | **angry** |
+| Yesterday (July 18, 2022) | **flock** |
+| Today (July 19, 2022) | **angry** |
+| Tomorrow (July 20, 2022) | **trite** |
 
 
 ## Table of Contents
