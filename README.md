@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 21, 2022) | **aphid** |
-| Today (July 22, 2022) | **tryst** |
-| Tomorrow (July 23, 2022) | **midge** |
+| Yesterday (July 22, 2022) | **tryst** |
+| Today (July 23, 2022) | **midge** |
+| Tomorrow (July 24, 2022) | **power** |
 
 
 ## Table of Contents
