@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 24, 2022) | **power** |
-| Today (July 25, 2022) | **elope** |
-| Tomorrow (July 26, 2022) | **cinch** |
+| Yesterday (July 25, 2022) | **elope** |
+| Today (July 26, 2022) | **cinch** |
+| Tomorrow (July 27, 2022) | **motto** |
 
 
 ## Table of Contents
