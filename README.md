@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 28, 2022) | **stomp** |
-| Today (July 29, 2022) | **upset** |
-| Tomorrow (July 30, 2022) | **bluff** |
+| Yesterday (July 29, 2022) | **upset** |
+| Today (July 30, 2022) | **bluff** |
+| Tomorrow (July 31, 2022) | **cramp** |
 
 
 ## Table of Contents
