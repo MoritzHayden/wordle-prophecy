@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 31, 2022) | **cramp** |
-| Today (August 01, 2022) | **quart** |
-| Tomorrow (August 02, 2022) | **coyly** |
+| Yesterday (August 01, 2022) | **quart** |
+| Today (August 02, 2022) | **coyly** |
+| Tomorrow (August 03, 2022) | **youth** |
 
 
 ## Table of Contents
