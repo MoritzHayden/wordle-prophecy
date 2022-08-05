@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 03, 2022) | **youth** |
-| Today (August 04, 2022) | **rhyme** |
-| Tomorrow (August 05, 2022) | **buggy** |
+| Yesterday (August 04, 2022) | **rhyme** |
+| Today (August 05, 2022) | **buggy** |
+| Tomorrow (August 06, 2022) | **alien** |
 
 
 ## Table of Contents
