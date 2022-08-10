@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 08, 2022) | **unfit** |
-| Today (August 09, 2022) | **patty** |
-| Tomorrow (August 10, 2022) | **cling** |
+| Yesterday (August 09, 2022) | **patty** |
+| Today (August 10, 2022) | **cling** |
+| Tomorrow (August 11, 2022) | **glean** |
 
 
 ## Table of Contents
