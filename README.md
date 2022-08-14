@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 12, 2022) | **label** |
-| Today (August 13, 2022) | **hunky** |
-| Tomorrow (August 14, 2022) | **khaki** |
+| Yesterday (August 13, 2022) | **hunky** |
+| Today (August 14, 2022) | **khaki** |
+| Tomorrow (August 15, 2022) | **poker** |
 
 
 ## Table of Contents
