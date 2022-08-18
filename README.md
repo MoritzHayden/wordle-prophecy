@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 16, 2022) | **gruel** |
-| Today (August 17, 2022) | **twice** |
-| Tomorrow (August 18, 2022) | **twang** |
+| Yesterday (August 17, 2022) | **twice** |
+| Today (August 18, 2022) | **twang** |
+| Tomorrow (August 19, 2022) | **shrug** |
 
 
 ## Table of Contents
