@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 25, 2022) | **clown** |
-| Today (August 26, 2022) | **irony** |
-| Tomorrow (August 27, 2022) | **ruder** |
+| Yesterday (August 26, 2022) | **irony** |
+| Today (August 27, 2022) | **ruder** |
+| Tomorrow (August 28, 2022) | **gauze** |
 
 
 ## Table of Contents
