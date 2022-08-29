@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 27, 2022) | **ruder** |
-| Today (August 28, 2022) | **gauze** |
-| Tomorrow (August 29, 2022) | **chief** |
+| Yesterday (August 28, 2022) | **gauze** |
+| Today (August 29, 2022) | **chief** |
+| Tomorrow (August 30, 2022) | **onset** |
 
 
 ## Table of Contents
