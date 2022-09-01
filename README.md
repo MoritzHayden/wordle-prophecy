@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 30, 2022) | **onset** |
-| Today (August 31, 2022) | **prize** |
-| Tomorrow (September 01, 2022) | **fungi** |
+| Yesterday (August 31, 2022) | **prize** |
+| Today (September 01, 2022) | **fungi** |
+| Tomorrow (September 02, 2022) | **charm** |
 
 
 ## Table of Contents
