@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 02, 2022) | **charm** |
-| Today (September 03, 2022) | **gully** |
-| Tomorrow (September 04, 2022) | **inter** |
+| Yesterday (September 03, 2022) | **gully** |
+| Today (September 04, 2022) | **inter** |
+| Tomorrow (September 05, 2022) | **whoop** |
 
 
 ## Table of Contents
