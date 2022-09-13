@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 11, 2022) | **tibia** |
-| Today (September 12, 2022) | **booze** |
-| Tomorrow (September 13, 2022) | **alpha** |
+| Yesterday (September 12, 2022) | **booze** |
+| Today (September 13, 2022) | **alpha** |
+| Tomorrow (September 14, 2022) | **thyme** |
 
 
 ## Table of Contents
