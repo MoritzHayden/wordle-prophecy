@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 14, 2022) | **thyme** |
-| Today (September 15, 2022) | **doubt** |
-| Tomorrow (September 16, 2022) | **parer** |
+| Yesterday (September 15, 2022) | **doubt** |
+| Today (September 16, 2022) | **parer** |
+| Tomorrow (September 17, 2022) | **chute** |
 
 
 ## Table of Contents
