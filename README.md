@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 17, 2022) | **chute** |
-| Today (September 18, 2022) | **stick** |
-| Tomorrow (September 19, 2022) | **trice** |
+| Yesterday (September 18, 2022) | **stick** |
+| Today (September 19, 2022) | **trice** |
+| Tomorrow (September 20, 2022) | **alike** |
 
 
 ## Table of Contents
