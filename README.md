@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 22, 2022) | **saint** |
-| Today (September 23, 2022) | **glory** |
-| Tomorrow (September 24, 2022) | **grate** |
+| Yesterday (September 23, 2022) | **glory** |
+| Today (September 24, 2022) | **grate** |
+| Tomorrow (September 25, 2022) | **admit** |
 
 
 ## Table of Contents
