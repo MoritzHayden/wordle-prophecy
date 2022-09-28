@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 26, 2022) | **brisk** |
-| Today (September 27, 2022) | **soggy** |
-| Tomorrow (September 28, 2022) | **usurp** |
+| Yesterday (September 27, 2022) | **soggy** |
+| Today (September 28, 2022) | **usurp** |
+| Tomorrow (September 29, 2022) | **scald** |
 
 
 ## Table of Contents
