@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 29, 2022) | **scald** |
-| Today (September 30, 2022) | **scorn** |
-| Tomorrow (October 01, 2022) | **leave** |
+| Yesterday (September 30, 2022) | **scorn** |
+| Today (October 01, 2022) | **leave** |
+| Tomorrow (October 02, 2022) | **twine** |
 
 
 ## Table of Contents
