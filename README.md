@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 02, 2022) | **twine** |
-| Today (October 03, 2022) | **sting** |
-| Tomorrow (October 04, 2022) | **bough** |
+| Yesterday (October 03, 2022) | **sting** |
+| Today (October 04, 2022) | **bough** |
+| Tomorrow (October 05, 2022) | **marsh** |
 
 
 ## Table of Contents
