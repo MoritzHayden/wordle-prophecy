@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 06, 2022) | **sloth** |
-| Today (October 07, 2022) | **dandy** |
-| Tomorrow (October 08, 2022) | **vigor** |
+| Yesterday (October 07, 2022) | **dandy** |
+| Today (October 08, 2022) | **vigor** |
+| Tomorrow (October 09, 2022) | **howdy** |
 
 
 ## Table of Contents
