@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 07, 2022) | **dandy** |
-| Today (October 08, 2022) | **vigor** |
-| Tomorrow (October 09, 2022) | **howdy** |
+| Yesterday (October 08, 2022) | **vigor** |
+| Today (October 09, 2022) | **howdy** |
+| Tomorrow (October 10, 2022) | **enjoy** |
 
 
 ## Table of Contents
