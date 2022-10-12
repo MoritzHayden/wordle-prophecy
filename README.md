@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 10, 2022) | **enjoy** |
-| Today (October 11, 2022) | **valid** |
-| Tomorrow (October 12, 2022) | **ionic** |
+| Yesterday (October 11, 2022) | **valid** |
+| Today (October 12, 2022) | **ionic** |
+| Tomorrow (October 13, 2022) | **equal** |
 
 
 ## Table of Contents
