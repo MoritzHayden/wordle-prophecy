@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 13, 2022) | **equal** |
-| Today (October 14, 2022) | **floor** |
-| Tomorrow (October 15, 2022) | **catch** |
+| Yesterday (October 14, 2022) | **floor** |
+| Today (October 15, 2022) | **catch** |
+| Tomorrow (October 16, 2022) | **spade** |
 
 
 ## Table of Contents
