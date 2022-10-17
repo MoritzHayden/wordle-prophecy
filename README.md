@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 15, 2022) | **catch** |
-| Today (October 16, 2022) | **spade** |
-| Tomorrow (October 17, 2022) | **stein** |
+| Yesterday (October 16, 2022) | **spade** |
+| Today (October 17, 2022) | **stein** |
+| Tomorrow (October 18, 2022) | **exist** |
 
 
 ## Table of Contents
