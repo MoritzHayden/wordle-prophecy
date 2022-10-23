@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 21, 2022) | **grove** |
-| Today (October 22, 2022) | **spiel** |
-| Tomorrow (October 23, 2022) | **mummy** |
+| Yesterday (October 22, 2022) | **spiel** |
+| Today (October 23, 2022) | **mummy** |
+| Tomorrow (October 24, 2022) | **fault** |
 
 
 ## Table of Contents
