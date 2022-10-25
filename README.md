@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 23, 2022) | **mummy** |
-| Today (October 24, 2022) | **fault** |
-| Tomorrow (October 25, 2022) | **foggy** |
+| Yesterday (October 24, 2022) | **fault** |
+| Today (October 25, 2022) | **foggy** |
+| Tomorrow (October 26, 2022) | **flout** |
 
 
 ## Table of Contents
