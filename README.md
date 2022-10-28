@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 26, 2022) | **flout** |
-| Today (October 27, 2022) | **carry** |
-| Tomorrow (October 28, 2022) | **sneak** |
+| Yesterday (October 27, 2022) | **carry** |
+| Today (October 28, 2022) | **sneak** |
+| Tomorrow (October 29, 2022) | **libel** |
 
 
 ## Table of Contents
