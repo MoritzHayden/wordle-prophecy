@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 30, 2022) | **waltz** |
-| Today (October 31, 2022) | **aptly** |
-| Tomorrow (November 01, 2022) | **piney** |
+| Yesterday (October 31, 2022) | **aptly** |
+| Today (November 01, 2022) | **piney** |
+| Tomorrow (November 02, 2022) | **inept** |
 
 
 ## Table of Contents
