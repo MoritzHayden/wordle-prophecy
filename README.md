@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 01, 2022) | **piney** |
-| Today (November 02, 2022) | **inept** |
-| Tomorrow (November 03, 2022) | **aloud** |
+| Yesterday (November 02, 2022) | **inept** |
+| Today (November 03, 2022) | **aloud** |
+| Tomorrow (November 04, 2022) | **photo** |
 
 
 ## Table of Contents
