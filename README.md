@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 09, 2022) | **baker** |
-| Today (November 10, 2022) | **there** |
-| Tomorrow (November 11, 2022) | **glyph** |
+| Yesterday (November 10, 2022) | **there** |
+| Today (November 11, 2022) | **glyph** |
+| Tomorrow (November 12, 2022) | **pooch** |
 
 
 ## Table of Contents
