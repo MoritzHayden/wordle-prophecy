@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 14, 2022) | **spell** |
-| Today (November 15, 2022) | **folly** |
-| Tomorrow (November 16, 2022) | **louse** |
+| Yesterday (November 15, 2022) | **folly** |
+| Today (November 16, 2022) | **louse** |
+| Tomorrow (November 17, 2022) | **gulch** |
 
 
 ## Table of Contents
