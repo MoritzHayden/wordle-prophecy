@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 20, 2022) | **threw** |
-| Today (November 21, 2022) | **fleet** |
-| Tomorrow (November 22, 2022) | **grave** |
+| Yesterday (November 21, 2022) | **fleet** |
+| Today (November 22, 2022) | **grave** |
+| Tomorrow (November 23, 2022) | **inane** |
 
 
 ## Table of Contents
