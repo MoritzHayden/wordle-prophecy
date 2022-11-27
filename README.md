@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 25, 2022) | **crave** |
-| Today (November 26, 2022) | **spite** |
-| Tomorrow (November 27, 2022) | **valve** |
+| Yesterday (November 26, 2022) | **spite** |
+| Today (November 27, 2022) | **valve** |
+| Tomorrow (November 28, 2022) | **skimp** |
 
 
 ## Table of Contents
