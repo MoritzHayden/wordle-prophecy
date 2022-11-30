@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 28, 2022) | **skimp** |
-| Today (November 29, 2022) | **claim** |
-| Tomorrow (November 30, 2022) | **rainy** |
+| Yesterday (November 29, 2022) | **claim** |
+| Today (November 30, 2022) | **rainy** |
+| Tomorrow (December 01, 2022) | **musty** |
 
 
 ## Table of Contents
