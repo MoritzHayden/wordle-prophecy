@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 02, 2022) | **pique** |
-| Today (December 03, 2022) | **daddy** |
-| Tomorrow (December 04, 2022) | **quasi** |
+| Yesterday (December 03, 2022) | **daddy** |
+| Today (December 04, 2022) | **quasi** |
+| Tomorrow (December 05, 2022) | **arise** |
 
 
 ## Table of Contents
