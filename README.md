@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 04, 2022) | **quasi** |
-| Today (December 05, 2022) | **arise** |
-| Tomorrow (December 06, 2022) | **aging** |
+| Yesterday (December 05, 2022) | **arise** |
+| Today (December 06, 2022) | **aging** |
+| Tomorrow (December 07, 2022) | **valet** |
 
 
 ## Table of Contents
