@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 08, 2022) | **opium** |
-| Today (December 09, 2022) | **avert** |
-| Tomorrow (December 10, 2022) | **stuck** |
+| Yesterday (December 09, 2022) | **avert** |
+| Today (December 10, 2022) | **stuck** |
+| Tomorrow (December 11, 2022) | **recut** |
 
 
 ## Table of Contents
