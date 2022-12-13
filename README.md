@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 11, 2022) | **recut** |
-| Today (December 12, 2022) | **mulch** |
-| Tomorrow (December 13, 2022) | **genre** |
+| Yesterday (December 12, 2022) | **mulch** |
+| Today (December 13, 2022) | **genre** |
+| Tomorrow (December 14, 2022) | **plume** |
 
 
 ## Table of Contents
