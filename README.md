@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 14, 2022) | **plume** |
-| Today (December 15, 2022) | **rifle** |
-| Tomorrow (December 16, 2022) | **count** |
+| Yesterday (December 15, 2022) | **rifle** |
+| Today (December 16, 2022) | **count** |
+| Tomorrow (December 17, 2022) | **incur** |
 
 
 ## Table of Contents
