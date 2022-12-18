@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 16, 2022) | **count** |
-| Today (December 17, 2022) | **incur** |
-| Tomorrow (December 18, 2022) | **total** |
+| Yesterday (December 17, 2022) | **incur** |
+| Today (December 18, 2022) | **total** |
+| Tomorrow (December 19, 2022) | **wrest** |
 
 
 ## Table of Contents
