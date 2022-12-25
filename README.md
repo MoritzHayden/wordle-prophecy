@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 23, 2022) | **lover** |
-| Today (December 24, 2022) | **safer** |
-| Tomorrow (December 25, 2022) | **rivet** |
+| Yesterday (December 24, 2022) | **safer** |
+| Today (December 25, 2022) | **rivet** |
+| Tomorrow (December 26, 2022) | **funny** |
 
 
 ## Table of Contents
