@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 25, 2022) | **rivet** |
-| Today (December 26, 2022) | **funny** |
-| Tomorrow (December 27, 2022) | **smoke** |
+| Yesterday (December 26, 2022) | **funny** |
+| Today (December 27, 2022) | **smoke** |
+| Tomorrow (December 28, 2022) | **mound** |
 
 
 ## Table of Contents
