@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 27, 2022) | **smoke** |
-| Today (December 28, 2022) | **mound** |
-| Tomorrow (December 29, 2022) | **undue** |
+| Yesterday (December 28, 2022) | **mound** |
+| Today (December 29, 2022) | **undue** |
+| Tomorrow (December 30, 2022) | **sedan** |
 
 
 ## Table of Contents
