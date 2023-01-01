@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 30, 2022) | **sedan** |
-| Today (December 31, 2022) | **pagan** |
-| Tomorrow (January 01, 2023) | **swine** |
+| Yesterday (December 31, 2022) | **pagan** |
+| Today (January 01, 2023) | **swine** |
+| Tomorrow (January 02, 2023) | **guile** |
 
 
 ## Table of Contents
