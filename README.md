@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 01, 2023) | **swine** |
-| Today (January 02, 2023) | **guile** |
-| Tomorrow (January 03, 2023) | **gusty** |
+| Yesterday (January 02, 2023) | **guile** |
+| Today (January 03, 2023) | **gusty** |
+| Tomorrow (January 04, 2023) | **equip** |
 
 
 ## Table of Contents
