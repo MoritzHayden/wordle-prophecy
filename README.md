@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 04, 2023) | **equip** |
-| Today (January 05, 2023) | **tough** |
-| Tomorrow (January 06, 2023) | **canoe** |
+| Yesterday (January 05, 2023) | **tough** |
+| Today (January 06, 2023) | **canoe** |
+| Tomorrow (January 07, 2023) | **chaos** |
 
 
 ## Table of Contents
