@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 08, 2023) | **covet** |
-| Today (January 09, 2023) | **human** |
-| Tomorrow (January 10, 2023) | **udder** |
+| Yesterday (January 09, 2023) | **human** |
+| Today (January 10, 2023) | **udder** |
+| Tomorrow (January 11, 2023) | **lunch** |
 
 
 ## Table of Contents
