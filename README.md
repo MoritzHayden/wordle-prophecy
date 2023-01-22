@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 20, 2023) | **octet** |
-| Today (January 21, 2023) | **risen** |
-| Tomorrow (January 22, 2023) | **groan** |
+| Yesterday (January 21, 2023) | **risen** |
+| Today (January 22, 2023) | **groan** |
+| Tomorrow (January 23, 2023) | **leaky** |
 
 
 ## Table of Contents
