@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 27, 2023) | **sadly** |
-| Today (January 28, 2023) | **spilt** |
-| Tomorrow (January 29, 2023) | **apple** |
+| Yesterday (January 28, 2023) | **spilt** |
+| Today (January 29, 2023) | **apple** |
+| Tomorrow (January 30, 2023) | **slack** |
 
 
 ## Table of Contents
