@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 31, 2023) | **honey** |
-| Today (February 01, 2023) | **final** |
-| Tomorrow (February 02, 2023) | **sheen** |
+| Yesterday (February 01, 2023) | **final** |
+| Today (February 02, 2023) | **sheen** |
+| Tomorrow (February 03, 2023) | **eerie** |
 
 
 ## Table of Contents
