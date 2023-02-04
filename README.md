@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 02, 2023) | **sheen** |
-| Today (February 03, 2023) | **eerie** |
-| Tomorrow (February 04, 2023) | **minty** |
+| Yesterday (February 03, 2023) | **eerie** |
+| Today (February 04, 2023) | **minty** |
+| Tomorrow (February 05, 2023) | **slick** |
 
 
 ## Table of Contents
