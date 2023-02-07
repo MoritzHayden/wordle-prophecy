@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 05, 2023) | **slick** |
-| Today (February 06, 2023) | **derby** |
-| Tomorrow (February 07, 2023) | **wharf** |
+| Yesterday (February 06, 2023) | **derby** |
+| Today (February 07, 2023) | **wharf** |
+| Tomorrow (February 08, 2023) | **spelt** |
 
 
 ## Table of Contents
