@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 07, 2023) | **wharf** |
-| Today (February 08, 2023) | **spelt** |
-| Tomorrow (February 09, 2023) | **coach** |
+| Yesterday (February 08, 2023) | **spelt** |
+| Today (February 09, 2023) | **coach** |
+| Tomorrow (February 10, 2023) | **erupt** |
 
 
 ## Table of Contents
