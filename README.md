@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 08, 2023) | **spelt** |
-| Today (February 09, 2023) | **coach** |
-| Tomorrow (February 10, 2023) | **erupt** |
+| Yesterday (February 09, 2023) | **coach** |
+| Today (February 10, 2023) | **erupt** |
+| Tomorrow (February 11, 2023) | **singe** |
 
 
 ## Table of Contents
