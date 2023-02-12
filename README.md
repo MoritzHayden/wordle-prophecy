@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 10, 2023) | **erupt** |
-| Today (February 11, 2023) | **singe** |
-| Tomorrow (February 12, 2023) | **price** |
+| Yesterday (February 11, 2023) | **singe** |
+| Today (February 12, 2023) | **price** |
+| Tomorrow (February 13, 2023) | **spawn** |
 
 
 ## Table of Contents
