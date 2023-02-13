@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 11, 2023) | **singe** |
-| Today (February 12, 2023) | **price** |
-| Tomorrow (February 13, 2023) | **spawn** |
+| Yesterday (February 12, 2023) | **price** |
+| Today (February 13, 2023) | **spawn** |
+| Tomorrow (February 14, 2023) | **fairy** |
 
 
 ## Table of Contents
