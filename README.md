@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 15, 2023) | **jiffy** |
-| Today (February 16, 2023) | **filmy** |
-| Tomorrow (February 17, 2023) | **stack** |
+| Yesterday (February 16, 2023) | **filmy** |
+| Today (February 17, 2023) | **stack** |
+| Tomorrow (February 18, 2023) | **chose** |
 
 
 ## Table of Contents
