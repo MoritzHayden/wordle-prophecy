@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 20, 2023) | **ardor** |
-| Today (February 21, 2023) | **nanny** |
-| Tomorrow (February 22, 2023) | **niece** |
+| Yesterday (February 21, 2023) | **nanny** |
+| Today (February 22, 2023) | **niece** |
+| Tomorrow (February 23, 2023) | **woozy** |
 
 
 ## Table of Contents
