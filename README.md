@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 25, 2023) | **grace** |
-| Today (February 26, 2023) | **ditto** |
-| Tomorrow (February 27, 2023) | **stank** |
+| Yesterday (February 26, 2023) | **ditto** |
+| Today (February 27, 2023) | **stank** |
+| Tomorrow (February 28, 2023) | **cream** |
 
 
 ## Table of Contents
