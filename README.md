@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 28, 2023) | **cream** |
-| Today (March 01, 2023) | **usual** |
-| Tomorrow (March 02, 2023) | **diode** |
+| Yesterday (March 01, 2023) | **usual** |
+| Today (March 02, 2023) | **diode** |
+| Tomorrow (March 03, 2023) | **valor** |
 
 
 ## Table of Contents
