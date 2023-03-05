@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 03, 2023) | **valor** |
-| Today (March 04, 2023) | **angle** |
-| Tomorrow (March 05, 2023) | **ninja** |
+| Yesterday (March 04, 2023) | **angle** |
+| Today (March 05, 2023) | **ninja** |
+| Tomorrow (March 06, 2023) | **muddy** |
 
 
 ## Table of Contents
