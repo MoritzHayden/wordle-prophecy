@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 08, 2023) | **reply** |
-| Today (March 09, 2023) | **prone** |
-| Tomorrow (March 10, 2023) | **spoil** |
+| Yesterday (March 09, 2023) | **prone** |
+| Today (March 10, 2023) | **spoil** |
+| Tomorrow (March 11, 2023) | **heart** |
 
 
 ## Table of Contents
