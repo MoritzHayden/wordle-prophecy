@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 11, 2023) | **heart** |
-| Today (March 12, 2023) | **shade** |
-| Tomorrow (March 13, 2023) | **diner** |
+| Yesterday (March 12, 2023) | **shade** |
+| Today (March 13, 2023) | **diner** |
+| Tomorrow (March 14, 2023) | **arson** |
 
 
 ## Table of Contents
