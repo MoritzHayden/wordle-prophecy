@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 14, 2023) | **arson** |
-| Today (March 15, 2023) | **onion** |
-| Tomorrow (March 16, 2023) | **sleet** |
+| Yesterday (March 15, 2023) | **onion** |
+| Today (March 16, 2023) | **sleet** |
+| Tomorrow (March 17, 2023) | **dowel** |
 
 
 ## Table of Contents
