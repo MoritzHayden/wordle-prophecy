@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 17, 2023) | **dowel** |
-| Today (March 18, 2023) | **couch** |
-| Tomorrow (March 19, 2023) | **palsy** |
+| Yesterday (March 18, 2023) | **couch** |
+| Today (March 19, 2023) | **palsy** |
+| Tomorrow (March 20, 2023) | **bowel** |
 
 
 ## Table of Contents
