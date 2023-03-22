@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 20, 2023) | **bowel** |
-| Today (March 21, 2023) | **smile** |
-| Tomorrow (March 22, 2023) | **evoke** |
+| Yesterday (March 21, 2023) | **smile** |
+| Today (March 22, 2023) | **evoke** |
+| Tomorrow (March 23, 2023) | **creek** |
 
 
 ## Table of Contents
