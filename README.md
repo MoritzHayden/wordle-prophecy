@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 21, 2023) | **smile** |
-| Today (March 22, 2023) | **evoke** |
-| Tomorrow (March 23, 2023) | **creek** |
+| Yesterday (March 22, 2023) | **evoke** |
+| Today (March 23, 2023) | **creek** |
+| Tomorrow (March 24, 2023) | **lance** |
 
 
 ## Table of Contents
