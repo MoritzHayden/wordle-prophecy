@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 23, 2023) | **creek** |
-| Today (March 24, 2023) | **lance** |
-| Tomorrow (March 25, 2023) | **eagle** |
+| Yesterday (March 24, 2023) | **lance** |
+| Today (March 25, 2023) | **eagle** |
+| Tomorrow (March 26, 2023) | **idiot** |
 
 
 ## Table of Contents
