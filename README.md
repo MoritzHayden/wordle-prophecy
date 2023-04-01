@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 30, 2023) | **award** |
-| Today (March 31, 2023) | **dross** |
-| Tomorrow (April 01, 2023) | **annul** |
+| Yesterday (March 31, 2023) | **dross** |
+| Today (April 01, 2023) | **annul** |
+| Tomorrow (April 02, 2023) | **goody** |
 
 
 ## Table of Contents
