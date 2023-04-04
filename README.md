@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 02, 2023) | **goody** |
-| Today (April 03, 2023) | **frown** |
-| Tomorrow (April 04, 2023) | **patio** |
+| Yesterday (April 03, 2023) | **frown** |
+| Today (April 04, 2023) | **patio** |
+| Tomorrow (April 05, 2023) | **laden** |
 
 
 ## Table of Contents
