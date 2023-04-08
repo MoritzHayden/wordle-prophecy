@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 06, 2023) | **humid** |
-| Today (April 07, 2023) | **elite** |
-| Tomorrow (April 08, 2023) | **lymph** |
+| Yesterday (April 07, 2023) | **elite** |
+| Today (April 08, 2023) | **lymph** |
+| Tomorrow (April 09, 2023) | **edify** |
 
 
 ## Table of Contents
