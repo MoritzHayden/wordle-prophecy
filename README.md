@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 08, 2023) | **lymph** |
-| Today (April 09, 2023) | **edify** |
-| Tomorrow (April 10, 2023) | **might** |
+| Yesterday (April 09, 2023) | **edify** |
+| Today (April 10, 2023) | **might** |
+| Tomorrow (April 11, 2023) | **reset** |
 
 
 ## Table of Contents
