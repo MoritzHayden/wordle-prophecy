@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 15, 2023) | **vapor** |
-| Today (April 16, 2023) | **crock** |
-| Tomorrow (April 17, 2023) | **write** |
+| Yesterday (April 16, 2023) | **crock** |
+| Today (April 17, 2023) | **write** |
+| Tomorrow (April 18, 2023) | **sunny** |
 
 
 ## Table of Contents
