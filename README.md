@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 23, 2023) | **venom** |
-| Today (April 24, 2023) | **stamp** |
-| Tomorrow (April 25, 2023) | **sorry** |
+| Yesterday (April 24, 2023) | **stamp** |
+| Today (April 25, 2023) | **sorry** |
+| Tomorrow (April 26, 2023) | **still** |
 
 
 ## Table of Contents
