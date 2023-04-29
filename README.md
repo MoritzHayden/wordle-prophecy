@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 27, 2023) | **acorn** |
-| Today (April 28, 2023) | **aping** |
-| Tomorrow (April 29, 2023) | **pushy** |
+| Yesterday (April 28, 2023) | **aping** |
+| Today (April 29, 2023) | **pushy** |
+| Tomorrow (April 30, 2023) | **tamer** |
 
 
 ## Table of Contents
