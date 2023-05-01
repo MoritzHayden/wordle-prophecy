@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 29, 2023) | **pushy** |
-| Today (April 30, 2023) | **tamer** |
-| Tomorrow (May 01, 2023) | **hater** |
+| Yesterday (April 30, 2023) | **tamer** |
+| Today (May 01, 2023) | **hater** |
+| Tomorrow (May 02, 2023) | **mania** |
 
 
 ## Table of Contents
