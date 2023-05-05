@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 03, 2023) | **awoke** |
-| Today (May 04, 2023) | **brawn** |
-| Tomorrow (May 05, 2023) | **swift** |
+| Yesterday (May 04, 2023) | **brawn** |
+| Today (May 05, 2023) | **swift** |
+| Tomorrow (May 06, 2023) | **exile** |
 
 
 ## Table of Contents
