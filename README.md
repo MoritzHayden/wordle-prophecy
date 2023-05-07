@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 05, 2023) | **swift** |
-| Today (May 06, 2023) | **exile** |
-| Tomorrow (May 07, 2023) | **birch** |
+| Yesterday (May 06, 2023) | **exile** |
+| Today (May 07, 2023) | **birch** |
+| Tomorrow (May 08, 2023) | **lucky** |
 
 
 ## Table of Contents
