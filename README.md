@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 08, 2023) | **lucky** |
-| Today (May 09, 2023) | **freer** |
-| Tomorrow (May 10, 2023) | **risky** |
+| Yesterday (May 09, 2023) | **freer** |
+| Today (May 10, 2023) | **risky** |
+| Tomorrow (May 11, 2023) | **ghost** |
 
 
 ## Table of Contents
