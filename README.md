@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 10, 2023) | **risky** |
-| Today (May 11, 2023) | **ghost** |
-| Tomorrow (May 12, 2023) | **plier** |
+| Yesterday (May 11, 2023) | **ghost** |
+| Today (May 12, 2023) | **plier** |
+| Tomorrow (May 13, 2023) | **lunar** |
 
 
 ## Table of Contents
