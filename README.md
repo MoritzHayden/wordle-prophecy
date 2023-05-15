@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 13, 2023) | **lunar** |
-| Today (May 14, 2023) | **winch** |
-| Tomorrow (May 15, 2023) | **snare** |
+| Yesterday (May 14, 2023) | **winch** |
+| Today (May 15, 2023) | **snare** |
+| Tomorrow (May 16, 2023) | **nurse** |
 
 
 ## Table of Contents
