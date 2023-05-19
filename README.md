@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 17, 2023) | **house** |
-| Today (May 18, 2023) | **borax** |
-| Tomorrow (May 19, 2023) | **nicer** |
+| Yesterday (May 18, 2023) | **borax** |
+| Today (May 19, 2023) | **nicer** |
+| Tomorrow (May 20, 2023) | **lurch** |
 
 
 ## Table of Contents
