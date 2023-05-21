@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 19, 2023) | **nicer** |
-| Today (May 20, 2023) | **lurch** |
-| Tomorrow (May 21, 2023) | **exalt** |
+| Yesterday (May 20, 2023) | **lurch** |
+| Today (May 21, 2023) | **exalt** |
+| Tomorrow (May 22, 2023) | **about** |
 
 
 ## Table of Contents
