@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 25, 2023) | **tunic** |
-| Today (May 26, 2023) | **pried** |
-| Tomorrow (May 27, 2023) | **inlay** |
+| Yesterday (May 26, 2023) | **pried** |
+| Today (May 27, 2023) | **inlay** |
+| Tomorrow (May 28, 2023) | **chump** |
 
 
 ## Table of Contents
