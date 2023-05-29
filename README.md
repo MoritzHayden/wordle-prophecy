@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 27, 2023) | **inlay** |
-| Today (May 28, 2023) | **chump** |
-| Tomorrow (May 29, 2023) | **lanky** |
+| Yesterday (May 28, 2023) | **chump** |
+| Today (May 29, 2023) | **lanky** |
+| Tomorrow (May 30, 2023) | **cress** |
 
 
 ## Table of Contents
