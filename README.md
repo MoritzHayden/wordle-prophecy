@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 29, 2023) | **lanky** |
-| Today (May 30, 2023) | **cress** |
-| Tomorrow (May 31, 2023) | **eater** |
+| Yesterday (May 30, 2023) | **cress** |
+| Today (May 31, 2023) | **eater** |
+| Tomorrow (June 01, 2023) | **elude** |
 
 
 ## Table of Contents
