@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 31, 2023) | **eater** |
-| Today (June 01, 2023) | **elude** |
-| Tomorrow (June 02, 2023) | **cycle** |
+| Yesterday (June 01, 2023) | **elude** |
+| Today (June 02, 2023) | **cycle** |
+| Tomorrow (June 03, 2023) | **kitty** |
 
 
 ## Table of Contents
