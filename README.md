@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 03, 2023) | **kitty** |
-| Today (June 04, 2023) | **boule** |
-| Tomorrow (June 05, 2023) | **moron** |
+| Yesterday (June 04, 2023) | **boule** |
+| Today (June 05, 2023) | **moron** |
+| Tomorrow (June 06, 2023) | **tenet** |
 
 
 ## Table of Contents
