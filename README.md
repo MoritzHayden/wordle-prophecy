@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 10, 2023) | **vigil** |
-| Today (June 11, 2023) | **index** |
-| Tomorrow (June 12, 2023) | **blink** |
+| Yesterday (June 11, 2023) | **index** |
+| Today (June 12, 2023) | **blink** |
+| Tomorrow (June 13, 2023) | **clung** |
 
 
 ## Table of Contents
