@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 14, 2023) | **qualm** |
-| Today (June 15, 2023) | **croup** |
-| Tomorrow (June 16, 2023) | **clink** |
+| Yesterday (June 15, 2023) | **croup** |
+| Today (June 16, 2023) | **clink** |
+| Tomorrow (June 17, 2023) | **juicy** |
 
 
 ## Table of Contents
