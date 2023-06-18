@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 16, 2023) | **clink** |
-| Today (June 17, 2023) | **juicy** |
-| Tomorrow (June 18, 2023) | **stage** |
+| Yesterday (June 17, 2023) | **juicy** |
+| Today (June 18, 2023) | **stage** |
+| Tomorrow (June 19, 2023) | **decay** |
 
 
 ## Table of Contents
