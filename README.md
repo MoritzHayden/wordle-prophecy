@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 20, 2023) | **nerve** |
-| Today (June 21, 2023) | **flier** |
-| Tomorrow (June 22, 2023) | **shaft** |
+| Yesterday (June 21, 2023) | **flier** |
+| Today (June 22, 2023) | **shaft** |
+| Tomorrow (June 23, 2023) | **crook** |
 
 
 ## Table of Contents
