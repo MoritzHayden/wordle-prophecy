@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 23, 2023) | **crook** |
-| Today (June 24, 2023) | **clean** |
-| Tomorrow (June 25, 2023) | **china** |
+| Yesterday (June 24, 2023) | **clean** |
+| Today (June 25, 2023) | **china** |
+| Tomorrow (June 26, 2023) | **ridge** |
 
 
 ## Table of Contents
