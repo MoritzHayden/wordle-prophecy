@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 28, 2023) | **gnome** |
-| Today (June 29, 2023) | **snuck** |
-| Tomorrow (June 30, 2023) | **icing** |
+| Yesterday (June 29, 2023) | **snuck** |
+| Today (June 30, 2023) | **icing** |
+| Tomorrow (July 01, 2023) | **spiny** |
 
 
 ## Table of Contents
