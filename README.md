@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 01, 2023) | **spiny** |
-| Today (July 02, 2023) | **rigor** |
-| Tomorrow (July 03, 2023) | **snail** |
+| Yesterday (July 02, 2023) | **rigor** |
+| Today (July 03, 2023) | **snail** |
+| Tomorrow (July 04, 2023) | **flown** |
 
 
 ## Table of Contents
