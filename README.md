@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 05, 2023) | **rabid** |
-| Today (July 06, 2023) | **prose** |
-| Tomorrow (July 07, 2023) | **thank** |
+| Yesterday (July 06, 2023) | **prose** |
+| Today (July 07, 2023) | **thank** |
+| Tomorrow (July 08, 2023) | **poppy** |
 
 
 ## Table of Contents
