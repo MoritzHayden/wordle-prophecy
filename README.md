@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 08, 2023) | **poppy** |
-| Today (July 09, 2023) | **budge** |
-| Tomorrow (July 10, 2023) | **fiber** |
+| Yesterday (July 09, 2023) | **budge** |
+| Today (July 10, 2023) | **fiber** |
+| Tomorrow (July 11, 2023) | **moldy** |
 
 
 ## Table of Contents
