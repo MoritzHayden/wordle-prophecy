@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 10, 2023) | **fiber** |
-| Today (July 11, 2023) | **moldy** |
-| Tomorrow (July 12, 2023) | **dowdy** |
+| Yesterday (July 11, 2023) | **moldy** |
+| Today (July 12, 2023) | **dowdy** |
+| Tomorrow (July 13, 2023) | **kneel** |
 
 
 ## Table of Contents
