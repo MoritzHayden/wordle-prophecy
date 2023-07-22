@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 20, 2023) | **rebar** |
-| Today (July 21, 2023) | **scuba** |
-| Tomorrow (July 22, 2023) | **splat** |
+| Yesterday (July 21, 2023) | **scuba** |
+| Today (July 22, 2023) | **splat** |
+| Tomorrow (July 23, 2023) | **flyer** |
 
 
 ## Table of Contents
