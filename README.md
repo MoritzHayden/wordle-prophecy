@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 27, 2023) | **ozone** |
-| Today (July 28, 2023) | **amply** |
-| Tomorrow (July 29, 2023) | **molar** |
+| Yesterday (July 28, 2023) | **amply** |
+| Today (July 29, 2023) | **molar** |
+| Tomorrow (July 30, 2023) | **ovary** |
 
 
 ## Table of Contents
