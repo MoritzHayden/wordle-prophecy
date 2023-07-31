@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 29, 2023) | **molar** |
-| Today (July 30, 2023) | **ovary** |
-| Tomorrow (July 31, 2023) | **beset** |
+| Yesterday (July 30, 2023) | **ovary** |
+| Today (July 31, 2023) | **beset** |
+| Tomorrow (August 01, 2023) | **queue** |
 
 
 ## Table of Contents
