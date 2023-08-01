@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 30, 2023) | **ovary** |
-| Today (July 31, 2023) | **beset** |
-| Tomorrow (August 01, 2023) | **queue** |
+| Yesterday (July 31, 2023) | **beset** |
+| Today (August 01, 2023) | **queue** |
+| Tomorrow (August 02, 2023) | **cliff** |
 
 
 ## Table of Contents
