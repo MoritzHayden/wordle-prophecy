@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 01, 2023) | **queue** |
-| Today (August 02, 2023) | **cliff** |
-| Tomorrow (August 03, 2023) | **magic** |
+| Yesterday (August 02, 2023) | **cliff** |
+| Today (August 03, 2023) | **magic** |
+| Tomorrow (August 04, 2023) | **truce** |
 
 
 ## Table of Contents
