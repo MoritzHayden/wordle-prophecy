@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 07, 2023) | **edict** |
-| Today (August 08, 2023) | **twirl** |
-| Tomorrow (August 09, 2023) | **verse** |
+| Yesterday (August 08, 2023) | **twirl** |
+| Today (August 09, 2023) | **verse** |
+| Tomorrow (August 10, 2023) | **llama** |
 
 
 ## Table of Contents
