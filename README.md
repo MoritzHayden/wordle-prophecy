@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 10, 2023) | **llama** |
-| Today (August 11, 2023) | **eaten** |
-| Tomorrow (August 12, 2023) | **range** |
+| Yesterday (August 11, 2023) | **eaten** |
+| Today (August 12, 2023) | **range** |
+| Tomorrow (August 13, 2023) | **whisk** |
 
 
 ## Table of Contents
