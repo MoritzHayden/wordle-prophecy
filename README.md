@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 13, 2023) | **whisk** |
-| Today (August 14, 2023) | **hovel** |
-| Tomorrow (August 15, 2023) | **rehab** |
+| Yesterday (August 14, 2023) | **hovel** |
+| Today (August 15, 2023) | **rehab** |
+| Tomorrow (August 16, 2023) | **macaw** |
 
 
 ## Table of Contents
