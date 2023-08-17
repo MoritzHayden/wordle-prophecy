@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 15, 2023) | **rehab** |
-| Today (August 16, 2023) | **macaw** |
-| Tomorrow (August 17, 2023) | **sigma** |
+| Yesterday (August 16, 2023) | **macaw** |
+| Today (August 17, 2023) | **sigma** |
+| Tomorrow (August 18, 2023) | **spout** |
 
 
 ## Table of Contents
