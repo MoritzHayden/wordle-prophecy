@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 17, 2023) | **sigma** |
-| Today (August 18, 2023) | **spout** |
-| Tomorrow (August 19, 2023) | **verve** |
+| Yesterday (August 18, 2023) | **spout** |
+| Today (August 19, 2023) | **verve** |
+| Tomorrow (August 20, 2023) | **sushi** |
 
 
 ## Table of Contents
