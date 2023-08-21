@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 19, 2023) | **verve** |
-| Today (August 20, 2023) | **sushi** |
-| Tomorrow (August 21, 2023) | **dying** |
+| Yesterday (August 20, 2023) | **sushi** |
+| Today (August 21, 2023) | **dying** |
+| Tomorrow (August 22, 2023) | **fetid** |
 
 
 ## Table of Contents
