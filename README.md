@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 20, 2023) | **sushi** |
-| Today (August 21, 2023) | **dying** |
-| Tomorrow (August 22, 2023) | **fetid** |
+| Yesterday (August 21, 2023) | **dying** |
+| Today (August 22, 2023) | **fetid** |
+| Tomorrow (August 23, 2023) | **brain** |
 
 
 ## Table of Contents
