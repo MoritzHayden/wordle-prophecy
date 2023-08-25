@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 23, 2023) | **brain** |
-| Today (August 24, 2023) | **buddy** |
-| Tomorrow (August 25, 2023) | **thump** |
+| Yesterday (August 24, 2023) | **buddy** |
+| Today (August 25, 2023) | **thump** |
+| Tomorrow (August 26, 2023) | **scion** |
 
 
 ## Table of Contents
