@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 26, 2023) | **scion** |
-| Today (August 27, 2023) | **candy** |
-| Tomorrow (August 28, 2023) | **chord** |
+| Yesterday (August 27, 2023) | **candy** |
+| Today (August 28, 2023) | **chord** |
+| Tomorrow (August 29, 2023) | **basin** |
 
 
 ## Table of Contents
