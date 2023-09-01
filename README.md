@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 30, 2023) | **march** |
-| Today (August 31, 2023) | **crowd** |
-| Tomorrow (September 01, 2023) | **arbor** |
+| Yesterday (August 31, 2023) | **crowd** |
+| Today (September 01, 2023) | **arbor** |
+| Tomorrow (September 02, 2023) | **gayly** |
 
 
 ## Table of Contents
