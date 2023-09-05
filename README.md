@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 03, 2023) | **musky** |
-| Today (September 04, 2023) | **stain** |
-| Tomorrow (September 05, 2023) | **dally** |
+| Yesterday (September 04, 2023) | **stain** |
+| Today (September 05, 2023) | **dally** |
+| Tomorrow (September 06, 2023) | **bless** |
 
 
 ## Table of Contents
