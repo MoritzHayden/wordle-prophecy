@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 07, 2023) | **bravo** |
-| Today (September 08, 2023) | **stung** |
-| Tomorrow (September 09, 2023) | **title** |
+| Yesterday (September 08, 2023) | **stung** |
+| Today (September 09, 2023) | **title** |
+| Tomorrow (September 10, 2023) | **ruler** |
 
 
 ## Table of Contents
