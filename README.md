@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 19, 2023) | **zebra** |
-| Today (September 20, 2023) | **barge** |
-| Tomorrow (September 21, 2023) | **matey** |
+| Yesterday (September 20, 2023) | **barge** |
+| Today (September 21, 2023) | **matey** |
+| Tomorrow (September 22, 2023) | **bluer** |
 
 
 ## Table of Contents
