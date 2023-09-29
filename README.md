@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 27, 2023) | **betel** |
-| Today (September 28, 2023) | **frisk** |
-| Tomorrow (September 29, 2023) | **bongo** |
+| Yesterday (September 28, 2023) | **frisk** |
+| Today (September 29, 2023) | **bongo** |
+| Tomorrow (September 30, 2023) | **begun** |
 
 
 ## Table of Contents
