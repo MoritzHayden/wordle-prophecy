@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 28, 2023) | **frisk** |
-| Today (September 29, 2023) | **bongo** |
-| Tomorrow (September 30, 2023) | **begun** |
+| Yesterday (September 29, 2023) | **bongo** |
+| Today (September 30, 2023) | **begun** |
+| Tomorrow (October 01, 2023) | **azure** |
 
 
 ## Table of Contents
