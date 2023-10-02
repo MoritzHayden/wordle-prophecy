@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 30, 2023) | **begun** |
-| Today (October 01, 2023) | **azure** |
-| Tomorrow (October 02, 2023) | **weave** |
+| Yesterday (October 01, 2023) | **azure** |
+| Today (October 02, 2023) | **weave** |
+| Tomorrow (October 03, 2023) | **genie** |
 
 
 ## Table of Contents
