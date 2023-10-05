@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 03, 2023) | **genie** |
-| Today (October 04, 2023) | **sound** |
-| Tomorrow (October 05, 2023) | **glove** |
+| Yesterday (October 04, 2023) | **sound** |
+| Today (October 05, 2023) | **glove** |
+| Tomorrow (October 06, 2023) | **braid** |
 
 
 ## Table of Contents
