@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 06, 2023) | **braid** |
-| Today (October 07, 2023) | **scope** |
-| Tomorrow (October 08, 2023) | **wryly** |
+| Yesterday (October 07, 2023) | **scope** |
+| Today (October 08, 2023) | **wryly** |
+| Tomorrow (October 09, 2023) | **rover** |
 
 
 ## Table of Contents
