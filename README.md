@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 10, 2023) | **assay** |
-| Today (October 11, 2023) | **ocean** |
-| Tomorrow (October 12, 2023) | **bloom** |
+| Yesterday (October 11, 2023) | **ocean** |
+| Today (October 12, 2023) | **bloom** |
+| Tomorrow (October 13, 2023) | **irate** |
 
 
 ## Table of Contents
