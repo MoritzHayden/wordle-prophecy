@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 12, 2023) | **bloom** |
-| Today (October 13, 2023) | **irate** |
-| Tomorrow (October 14, 2023) | **later** |
+| Yesterday (October 13, 2023) | **irate** |
+| Today (October 14, 2023) | **later** |
+| Tomorrow (October 15, 2023) | **woken** |
 
 
 ## Table of Contents
