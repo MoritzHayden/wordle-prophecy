@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 14, 2023) | **later** |
-| Today (October 15, 2023) | **woken** |
-| Tomorrow (October 16, 2023) | **silky** |
+| Yesterday (October 15, 2023) | **woken** |
+| Today (October 16, 2023) | **silky** |
+| Tomorrow (October 17, 2023) | **wreck** |
 
 
 ## Table of Contents
