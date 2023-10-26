@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 24, 2023) | **wrist** |
-| Today (October 25, 2023) | **jolly** |
-| Tomorrow (October 26, 2023) | **globe** |
+| Yesterday (October 25, 2023) | **jolly** |
+| Today (October 26, 2023) | **globe** |
+| Tomorrow (October 27, 2023) | **flint** |
 
 
 ## Table of Contents
