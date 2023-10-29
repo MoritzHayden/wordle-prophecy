@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 27, 2023) | **flint** |
-| Today (October 28, 2023) | **rouse** |
-| Tomorrow (October 29, 2023) | **civil** |
+| Yesterday (October 28, 2023) | **rouse** |
+| Today (October 29, 2023) | **civil** |
+| Tomorrow (October 30, 2023) | **vista** |
 
 
 ## Table of Contents
