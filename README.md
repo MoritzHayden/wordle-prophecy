@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 29, 2023) | **civil** |
-| Today (October 30, 2023) | **vista** |
-| Tomorrow (October 31, 2023) | **relax** |
+| Yesterday (October 30, 2023) | **vista** |
+| Today (October 31, 2023) | **relax** |
+| Tomorrow (November 01, 2023) | **cover** |
 
 
 ## Table of Contents
