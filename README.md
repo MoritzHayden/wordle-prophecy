@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 31, 2023) | **relax** |
-| Today (November 01, 2023) | **cover** |
-| Tomorrow (November 02, 2023) | **alive** |
+| Yesterday (November 01, 2023) | **cover** |
+| Today (November 02, 2023) | **alive** |
+| Tomorrow (November 03, 2023) | **beech** |
 
 
 ## Table of Contents
