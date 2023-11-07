@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 05, 2023) | **bliss** |
-| Today (November 06, 2023) | **vocal** |
-| Tomorrow (November 07, 2023) | **often** |
+| Yesterday (November 06, 2023) | **vocal** |
+| Today (November 07, 2023) | **often** |
+| Tomorrow (November 08, 2023) | **dolly** |
 
 
 ## Table of Contents
