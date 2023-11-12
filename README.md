@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 10, 2023) | **joker** |
-| Today (November 11, 2023) | **since** |
-| Tomorrow (November 12, 2023) | **event** |
+| Yesterday (November 11, 2023) | **since** |
+| Today (November 12, 2023) | **event** |
+| Tomorrow (November 13, 2023) | **ensue** |
 
 
 ## Table of Contents
