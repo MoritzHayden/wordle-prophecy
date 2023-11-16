@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 14, 2023) | **shunt** |
-| Today (November 15, 2023) | **diver** |
-| Tomorrow (November 16, 2023) | **poser** |
+| Yesterday (November 15, 2023) | **diver** |
+| Today (November 16, 2023) | **poser** |
+| Tomorrow (November 17, 2023) | **worst** |
 
 
 ## Table of Contents
