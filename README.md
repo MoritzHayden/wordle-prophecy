@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 17, 2023) | **worst** |
-| Today (November 18, 2023) | **sweep** |
-| Tomorrow (November 19, 2023) | **alley** |
+| Yesterday (November 18, 2023) | **sweep** |
+| Today (November 19, 2023) | **alley** |
+| Tomorrow (November 20, 2023) | **creed** |
 
 
 ## Table of Contents
