@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 19, 2023) | **alley** |
-| Today (November 20, 2023) | **creed** |
-| Tomorrow (November 21, 2023) | **anime** |
+| Yesterday (November 20, 2023) | **creed** |
+| Today (November 21, 2023) | **anime** |
+| Tomorrow (November 22, 2023) | **leafy** |
 
 
 ## Table of Contents
