@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 22, 2023) | **leafy** |
-| Today (November 23, 2023) | **bosom** |
-| Tomorrow (November 24, 2023) | **dunce** |
+| Yesterday (November 23, 2023) | **bosom** |
+| Today (November 24, 2023) | **dunce** |
+| Tomorrow (November 25, 2023) | **stare** |
 
 
 ## Table of Contents
