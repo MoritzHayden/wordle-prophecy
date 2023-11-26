@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 24, 2023) | **dunce** |
-| Today (November 25, 2023) | **stare** |
-| Tomorrow (November 26, 2023) | **pudgy** |
+| Yesterday (November 25, 2023) | **stare** |
+| Today (November 26, 2023) | **pudgy** |
+| Tomorrow (November 27, 2023) | **waive** |
 
 
 ## Table of Contents
