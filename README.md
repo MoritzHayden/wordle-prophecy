@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 26, 2023) | **pudgy** |
-| Today (November 27, 2023) | **waive** |
-| Tomorrow (November 28, 2023) | **choir** |
+| Yesterday (November 27, 2023) | **waive** |
+| Today (November 28, 2023) | **choir** |
+| Tomorrow (November 29, 2023) | **stood** |
 
 
 ## Table of Contents
