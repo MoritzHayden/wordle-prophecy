@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 30, 2023) | **spoke** |
-| Today (December 01, 2023) | **outgo** |
-| Tomorrow (December 02, 2023) | **delay** |
+| Yesterday (December 01, 2023) | **outgo** |
+| Today (December 02, 2023) | **delay** |
+| Tomorrow (December 03, 2023) | **bilge** |
 
 
 ## Table of Contents
