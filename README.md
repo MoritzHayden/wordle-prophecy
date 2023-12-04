@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 02, 2023) | **delay** |
-| Today (December 03, 2023) | **bilge** |
-| Tomorrow (December 04, 2023) | **ideal** |
+| Yesterday (December 03, 2023) | **bilge** |
+| Today (December 04, 2023) | **ideal** |
+| Tomorrow (December 05, 2023) | **clasp** |
 
 
 ## Table of Contents
