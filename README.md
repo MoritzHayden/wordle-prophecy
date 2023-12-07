@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 05, 2023) | **clasp** |
-| Today (December 06, 2023) | **seize** |
-| Tomorrow (December 07, 2023) | **hotly** |
+| Yesterday (December 06, 2023) | **seize** |
+| Today (December 07, 2023) | **hotly** |
+| Tomorrow (December 08, 2023) | **laugh** |
 
 
 ## Table of Contents
