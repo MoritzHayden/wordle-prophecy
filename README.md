@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 08, 2023) | **laugh** |
-| Today (December 09, 2023) | **sieve** |
-| Tomorrow (December 10, 2023) | **block** |
+| Yesterday (December 09, 2023) | **sieve** |
+| Today (December 10, 2023) | **block** |
+| Tomorrow (December 11, 2023) | **meant** |
 
 
 ## Table of Contents
