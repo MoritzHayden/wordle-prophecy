@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 09, 2023) | **sieve** |
-| Today (December 10, 2023) | **block** |
-| Tomorrow (December 11, 2023) | **meant** |
+| Yesterday (December 10, 2023) | **block** |
+| Today (December 11, 2023) | **meant** |
+| Tomorrow (December 12, 2023) | **grape** |
 
 
 ## Table of Contents
