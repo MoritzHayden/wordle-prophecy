@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 12, 2023) | **grape** |
-| Today (December 13, 2023) | **noose** |
-| Tomorrow (December 14, 2023) | **hardy** |
+| Yesterday (December 13, 2023) | **noose** |
+| Today (December 14, 2023) | **hardy** |
+| Tomorrow (December 15, 2023) | **shied** |
 
 
 ## Table of Contents
