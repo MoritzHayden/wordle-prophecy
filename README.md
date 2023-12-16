@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 14, 2023) | **hardy** |
-| Today (December 15, 2023) | **shied** |
-| Tomorrow (December 16, 2023) | **drawl** |
+| Yesterday (December 15, 2023) | **shied** |
+| Today (December 16, 2023) | **drawl** |
+| Tomorrow (December 17, 2023) | **daisy** |
 
 
 ## Table of Contents
