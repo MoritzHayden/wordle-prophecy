@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 18, 2023) | **putty** |
-| Today (December 19, 2023) | **strut** |
-| Tomorrow (December 20, 2023) | **burnt** |
+| Yesterday (December 19, 2023) | **strut** |
+| Today (December 20, 2023) | **burnt** |
+| Tomorrow (December 21, 2023) | **tulip** |
 
 
 ## Table of Contents
