@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 22, 2023) | **crick** |
-| Today (December 23, 2023) | **idyll** |
-| Tomorrow (December 24, 2023) | **vixen** |
+| Yesterday (December 23, 2023) | **idyll** |
+| Today (December 24, 2023) | **vixen** |
+| Tomorrow (December 25, 2023) | **furor** |
 
 
 ## Table of Contents
