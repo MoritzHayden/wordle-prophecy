@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 27, 2023) | **cough** |
-| Today (December 28, 2023) | **naive** |
-| Tomorrow (December 29, 2023) | **shoal** |
+| Yesterday (December 28, 2023) | **naive** |
+| Today (December 29, 2023) | **shoal** |
+| Tomorrow (December 30, 2023) | **stork** |
 
 
 ## Table of Contents
