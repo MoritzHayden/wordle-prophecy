@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 30, 2023) | **stork** |
-| Today (December 31, 2023) | **bathe** |
-| Tomorrow (January 01, 2024) | **aunty** |
+| Yesterday (December 31, 2023) | **bathe** |
+| Today (January 01, 2024) | **aunty** |
+| Tomorrow (January 02, 2024) | **check** |
 
 
 ## Table of Contents
