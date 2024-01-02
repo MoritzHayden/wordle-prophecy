@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 31, 2023) | **bathe** |
-| Today (January 01, 2024) | **aunty** |
-| Tomorrow (January 02, 2024) | **check** |
+| Yesterday (January 01, 2024) | **aunty** |
+| Today (January 02, 2024) | **check** |
+| Tomorrow (January 03, 2024) | **prime** |
 
 
 ## Table of Contents
