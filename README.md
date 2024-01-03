@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 01, 2024) | **aunty** |
-| Today (January 02, 2024) | **check** |
-| Tomorrow (January 03, 2024) | **prime** |
+| Yesterday (January 02, 2024) | **check** |
+| Today (January 03, 2024) | **prime** |
+| Tomorrow (January 04, 2024) | **brass** |
 
 
 ## Table of Contents
