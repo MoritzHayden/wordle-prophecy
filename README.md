@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 04, 2024) | **brass** |
-| Today (January 05, 2024) | **outer** |
-| Tomorrow (January 06, 2024) | **furry** |
+| Yesterday (January 05, 2024) | **outer** |
+| Today (January 06, 2024) | **furry** |
+| Tomorrow (January 07, 2024) | **razor** |
 
 
 ## Table of Contents
