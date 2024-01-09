@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 07, 2024) | **razor** |
-| Today (January 08, 2024) | **elect** |
-| Tomorrow (January 09, 2024) | **evict** |
+| Yesterday (January 08, 2024) | **elect** |
+| Today (January 09, 2024) | **evict** |
+| Tomorrow (January 10, 2024) | **imply** |
 
 
 ## Table of Contents
