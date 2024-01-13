@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 11, 2024) | **demur** |
-| Today (January 12, 2024) | **quota** |
-| Tomorrow (January 13, 2024) | **haven** |
+| Yesterday (January 12, 2024) | **quota** |
+| Today (January 13, 2024) | **haven** |
+| Tomorrow (January 14, 2024) | **cavil** |
 
 
 ## Table of Contents
