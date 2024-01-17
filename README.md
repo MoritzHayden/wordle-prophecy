@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 15, 2024) | **swear** |
-| Today (January 16, 2024) | **crump** |
-| Tomorrow (January 17, 2024) | **dough** |
+| Yesterday (January 16, 2024) | **crump** |
+| Today (January 17, 2024) | **dough** |
+| Tomorrow (January 18, 2024) | **gavel** |
 
 
 ## Table of Contents
