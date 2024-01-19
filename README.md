@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 17, 2024) | **dough** |
-| Today (January 18, 2024) | **gavel** |
-| Tomorrow (January 19, 2024) | **wagon** |
+| Yesterday (January 18, 2024) | **gavel** |
+| Today (January 19, 2024) | **wagon** |
+| Tomorrow (January 20, 2024) | **salon** |
 
 
 ## Table of Contents
