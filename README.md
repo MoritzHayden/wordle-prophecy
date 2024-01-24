@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 22, 2024) | **harem** |
-| Today (January 23, 2024) | **pitch** |
-| Tomorrow (January 24, 2024) | **sworn** |
+| Yesterday (January 23, 2024) | **pitch** |
+| Today (January 24, 2024) | **sworn** |
+| Tomorrow (January 25, 2024) | **pupil** |
 
 
 ## Table of Contents
