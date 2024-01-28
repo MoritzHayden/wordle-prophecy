@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 26, 2024) | **excel** |
-| Today (January 27, 2024) | **stony** |
-| Tomorrow (January 28, 2024) | **cabin** |
+| Yesterday (January 27, 2024) | **stony** |
+| Today (January 28, 2024) | **cabin** |
+| Tomorrow (January 29, 2024) | **unzip** |
 
 
 ## Table of Contents
