@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 28, 2024) | **cabin** |
-| Today (January 29, 2024) | **unzip** |
-| Tomorrow (January 30, 2024) | **queen** |
+| Yesterday (January 29, 2024) | **unzip** |
+| Today (January 30, 2024) | **queen** |
+| Tomorrow (January 31, 2024) | **trout** |
 
 
 ## Table of Contents
