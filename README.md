@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 30, 2024) | **queen** |
-| Today (January 31, 2024) | **trout** |
-| Tomorrow (February 01, 2024) | **polyp** |
+| Yesterday (January 31, 2024) | **trout** |
+| Today (February 01, 2024) | **polyp** |
+| Tomorrow (February 02, 2024) | **earth** |
 
 
 ## Table of Contents
