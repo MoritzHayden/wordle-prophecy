@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 01, 2024) | **polyp** |
-| Today (February 02, 2024) | **earth** |
-| Tomorrow (February 03, 2024) | **storm** |
+| Yesterday (February 02, 2024) | **earth** |
+| Today (February 03, 2024) | **storm** |
+| Tomorrow (February 04, 2024) | **until** |
 
 
 ## Table of Contents
