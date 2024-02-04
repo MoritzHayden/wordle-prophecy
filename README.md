@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 02, 2024) | **earth** |
-| Today (February 03, 2024) | **storm** |
-| Tomorrow (February 04, 2024) | **until** |
+| Yesterday (February 03, 2024) | **storm** |
+| Today (February 04, 2024) | **until** |
+| Tomorrow (February 05, 2024) | **taper** |
 
 
 ## Table of Contents
