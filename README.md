@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 07, 2024) | **child** |
-| Today (February 08, 2024) | **adopt** |
-| Tomorrow (February 09, 2024) | **minor** |
+| Yesterday (February 08, 2024) | **adopt** |
+| Today (February 09, 2024) | **minor** |
+| Tomorrow (February 10, 2024) | **fatty** |
 
 
 ## Table of Contents
