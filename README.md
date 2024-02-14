@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 12, 2024) | **brave** |
-| Today (February 13, 2024) | **filet** |
-| Tomorrow (February 14, 2024) | **slime** |
+| Yesterday (February 13, 2024) | **filet** |
+| Today (February 14, 2024) | **slime** |
+| Tomorrow (February 15, 2024) | **glint** |
 
 
 ## Table of Contents
