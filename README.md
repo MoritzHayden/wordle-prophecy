@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 15, 2024) | **glint** |
-| Today (February 16, 2024) | **tread** |
-| Tomorrow (February 17, 2024) | **steal** |
+| Yesterday (February 16, 2024) | **tread** |
+| Today (February 17, 2024) | **steal** |
+| Tomorrow (February 18, 2024) | **regal** |
 
 
 ## Table of Contents
