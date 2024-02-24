@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 22, 2024) | **share** |
-| Today (February 23, 2024) | **spore** |
-| Tomorrow (February 24, 2024) | **hoist** |
+| Yesterday (February 23, 2024) | **spore** |
+| Today (February 24, 2024) | **hoist** |
+| Tomorrow (February 25, 2024) | **buxom** |
 
 
 ## Table of Contents
