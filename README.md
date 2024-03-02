@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (February 29, 2024) | **level** |
-| Today (March 01, 2024) | **sumac** |
-| Tomorrow (March 02, 2024) | **donut** |
+| Yesterday (March 01, 2024) | **sumac** |
+| Today (March 02, 2024) | **donut** |
+| Tomorrow (March 03, 2024) | **stilt** |
 
 
 ## Table of Contents
