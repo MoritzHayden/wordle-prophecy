@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 05, 2024) | **sheet** |
-| Today (March 06, 2024) | **scrub** |
-| Tomorrow (March 07, 2024) | **fancy** |
+| Yesterday (March 06, 2024) | **scrub** |
+| Today (March 07, 2024) | **fancy** |
+| Tomorrow (March 08, 2024) | **slimy** |
 
 
 ## Table of Contents
