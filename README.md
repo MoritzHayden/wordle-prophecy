@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 09, 2024) | **pearl** |
-| Today (March 10, 2024) | **silly** |
-| Tomorrow (March 11, 2024) | **porch** |
+| Yesterday (March 10, 2024) | **silly** |
+| Today (March 11, 2024) | **porch** |
+| Tomorrow (March 12, 2024) | **dingo** |
 
 
 ## Table of Contents
