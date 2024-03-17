@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 15, 2024) | **shady** |
-| Today (March 16, 2024) | **bread** |
-| Tomorrow (March 17, 2024) | **friar** |
+| Yesterday (March 16, 2024) | **bread** |
+| Today (March 17, 2024) | **friar** |
+| Tomorrow (March 18, 2024) | **reign** |
 
 
 ## Table of Contents
