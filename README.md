@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 18, 2024) | **reign** |
-| Today (March 19, 2024) | **dairy** |
-| Tomorrow (March 20, 2024) | **quill** |
+| Yesterday (March 19, 2024) | **dairy** |
+| Today (March 20, 2024) | **quill** |
+| Tomorrow (March 21, 2024) | **cross** |
 
 
 ## Table of Contents
