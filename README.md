@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 20, 2024) | **quill** |
-| Today (March 21, 2024) | **cross** |
-| Tomorrow (March 22, 2024) | **brood** |
+| Yesterday (March 21, 2024) | **cross** |
+| Today (March 22, 2024) | **brood** |
+| Tomorrow (March 23, 2024) | **tuber** |
 
 
 ## Table of Contents
