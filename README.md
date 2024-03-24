@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 22, 2024) | **brood** |
-| Today (March 23, 2024) | **tuber** |
-| Tomorrow (March 24, 2024) | **shear** |
+| Yesterday (March 23, 2024) | **tuber** |
+| Today (March 24, 2024) | **shear** |
+| Tomorrow (March 25, 2024) | **posit** |
 
 
 ## Table of Contents
