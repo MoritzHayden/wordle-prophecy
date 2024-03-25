@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 23, 2024) | **tuber** |
-| Today (March 24, 2024) | **shear** |
-| Tomorrow (March 25, 2024) | **posit** |
+| Yesterday (March 24, 2024) | **shear** |
+| Today (March 25, 2024) | **posit** |
+| Tomorrow (March 26, 2024) | **blank** |
 
 
 ## Table of Contents
