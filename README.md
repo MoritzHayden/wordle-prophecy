@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 28, 2024) | **shank** |
-| Today (March 29, 2024) | **piggy** |
-| Tomorrow (March 30, 2024) | **freak** |
+| Yesterday (March 29, 2024) | **piggy** |
+| Today (March 30, 2024) | **freak** |
+| Tomorrow (March 31, 2024) | **which** |
 
 
 ## Table of Contents
