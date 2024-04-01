@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (March 30, 2024) | **freak** |
-| Today (March 31, 2024) | **which** |
-| Tomorrow (April 01, 2024) | **among** |
+| Yesterday (March 31, 2024) | **which** |
+| Today (April 01, 2024) | **among** |
+| Tomorrow (April 02, 2024) | **fecal** |
 
 
 ## Table of Contents
