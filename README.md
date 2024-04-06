@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 04, 2024) | **would** |
-| Today (April 05, 2024) | **algae** |
-| Tomorrow (April 06, 2024) | **large** |
+| Yesterday (April 05, 2024) | **algae** |
+| Today (April 06, 2024) | **large** |
+| Tomorrow (April 07, 2024) | **rabbi** |
 
 
 ## Table of Contents
