@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 06, 2024) | **large** |
-| Today (April 07, 2024) | **rabbi** |
-| Tomorrow (April 08, 2024) | **agony** |
+| Yesterday (April 07, 2024) | **rabbi** |
+| Today (April 08, 2024) | **agony** |
+| Tomorrow (April 09, 2024) | **amuse** |
 
 
 ## Table of Contents
