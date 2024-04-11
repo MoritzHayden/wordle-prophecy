@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 09, 2024) | **amuse** |
-| Today (April 10, 2024) | **bushy** |
-| Tomorrow (April 11, 2024) | **copse** |
+| Yesterday (April 10, 2024) | **bushy** |
+| Today (April 11, 2024) | **copse** |
+| Tomorrow (April 12, 2024) | **swoon** |
 
 
 ## Table of Contents
