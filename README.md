@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 11, 2024) | **copse** |
-| Today (April 12, 2024) | **swoon** |
-| Tomorrow (April 13, 2024) | **knife** |
+| Yesterday (April 12, 2024) | **swoon** |
+| Today (April 13, 2024) | **knife** |
+| Tomorrow (April 14, 2024) | **pouch** |
 
 
 ## Table of Contents
