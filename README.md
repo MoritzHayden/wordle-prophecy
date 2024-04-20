@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 18, 2024) | **urban** |
-| Today (April 19, 2024) | **snide** |
-| Tomorrow (April 20, 2024) | **relay** |
+| Yesterday (April 19, 2024) | **snide** |
+| Today (April 20, 2024) | **relay** |
+| Tomorrow (April 21, 2024) | **abide** |
 
 
 ## Table of Contents
