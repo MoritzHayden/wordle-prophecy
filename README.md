@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 24, 2024) | **straw** |
-| Today (April 25, 2024) | **dilly** |
-| Tomorrow (April 26, 2024) | **crash** |
+| Yesterday (April 25, 2024) | **dilly** |
+| Today (April 26, 2024) | **crash** |
+| Tomorrow (April 27, 2024) | **amass** |
 
 
 ## Table of Contents
