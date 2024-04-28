@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 26, 2024) | **crash** |
-| Today (April 27, 2024) | **amass** |
-| Tomorrow (April 28, 2024) | **third** |
+| Yesterday (April 27, 2024) | **amass** |
+| Today (April 28, 2024) | **third** |
+| Tomorrow (April 29, 2024) | **trick** |
 
 
 ## Table of Contents
