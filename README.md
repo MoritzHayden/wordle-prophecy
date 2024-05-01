@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (April 29, 2024) | **trick** |
-| Today (April 30, 2024) | **tutor** |
-| Tomorrow (May 01, 2024) | **woody** |
+| Yesterday (April 30, 2024) | **tutor** |
+| Today (May 01, 2024) | **woody** |
+| Tomorrow (May 02, 2024) | **blurb** |
 
 
 ## Table of Contents
