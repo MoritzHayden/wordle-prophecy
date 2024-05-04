@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 02, 2024) | **blurb** |
-| Today (May 03, 2024) | **grief** |
-| Tomorrow (May 04, 2024) | **disco** |
+| Yesterday (May 03, 2024) | **grief** |
+| Today (May 04, 2024) | **disco** |
+| Tomorrow (May 05, 2024) | **where** |
 
 
 ## Table of Contents
