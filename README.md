@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 06, 2024) | **sassy** |
-| Today (May 07, 2024) | **beach** |
-| Tomorrow (May 08, 2024) | **sauna** |
+| Yesterday (May 07, 2024) | **beach** |
+| Today (May 08, 2024) | **sauna** |
+| Tomorrow (May 09, 2024) | **comic** |
 
 
 ## Table of Contents
