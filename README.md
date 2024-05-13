@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 11, 2024) | **creep** |
-| Today (May 12, 2024) | **caste** |
-| Tomorrow (May 13, 2024) | **graze** |
+| Yesterday (May 12, 2024) | **caste** |
+| Today (May 13, 2024) | **graze** |
+| Tomorrow (May 14, 2024) | **snuff** |
 
 
 ## Table of Contents
