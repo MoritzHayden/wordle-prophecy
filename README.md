@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 12, 2024) | **caste** |
-| Today (May 13, 2024) | **graze** |
-| Tomorrow (May 14, 2024) | **snuff** |
+| Yesterday (May 13, 2024) | **graze** |
+| Today (May 14, 2024) | **snuff** |
+| Tomorrow (May 15, 2024) | **frock** |
 
 
 ## Table of Contents
