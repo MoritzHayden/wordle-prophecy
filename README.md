@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 17, 2024) | **drunk** |
-| Today (May 18, 2024) | **prong** |
-| Tomorrow (May 19, 2024) | **lurid** |
+| Yesterday (May 18, 2024) | **prong** |
+| Today (May 19, 2024) | **lurid** |
+| Tomorrow (May 20, 2024) | **steel** |
 
 
 ## Table of Contents
