@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 19, 2024) | **lurid** |
-| Today (May 20, 2024) | **steel** |
-| Tomorrow (May 21, 2024) | **halve** |
+| Yesterday (May 20, 2024) | **steel** |
+| Today (May 21, 2024) | **halve** |
+| Tomorrow (May 22, 2024) | **buyer** |
 
 
 ## Table of Contents
