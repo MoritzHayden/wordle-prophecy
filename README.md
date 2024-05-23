@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 21, 2024) | **halve** |
-| Today (May 22, 2024) | **buyer** |
-| Tomorrow (May 23, 2024) | **vinyl** |
+| Yesterday (May 22, 2024) | **buyer** |
+| Today (May 23, 2024) | **vinyl** |
+| Tomorrow (May 24, 2024) | **utile** |
 
 
 ## Table of Contents
