@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 24, 2024) | **utile** |
-| Today (May 25, 2024) | **smell** |
-| Tomorrow (May 26, 2024) | **adage** |
+| Yesterday (May 25, 2024) | **smell** |
+| Today (May 26, 2024) | **adage** |
+| Tomorrow (May 27, 2024) | **worry** |
 
 
 ## Table of Contents
