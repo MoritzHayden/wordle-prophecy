@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 30, 2024) | **trade** |
-| Today (May 31, 2024) | **finch** |
-| Tomorrow (June 01, 2024) | **ashen** |
+| Yesterday (May 31, 2024) | **finch** |
+| Today (June 01, 2024) | **ashen** |
+| Tomorrow (June 02, 2024) | **modal** |
 
 
 ## Table of Contents
