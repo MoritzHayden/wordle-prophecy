@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (May 31, 2024) | **finch** |
-| Today (June 01, 2024) | **ashen** |
-| Tomorrow (June 02, 2024) | **modal** |
+| Yesterday (June 01, 2024) | **ashen** |
+| Today (June 02, 2024) | **modal** |
+| Tomorrow (June 03, 2024) | **gaunt** |
 
 
 ## Table of Contents
