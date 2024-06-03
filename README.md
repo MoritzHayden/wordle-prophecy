@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 01, 2024) | **ashen** |
-| Today (June 02, 2024) | **modal** |
-| Tomorrow (June 03, 2024) | **gaunt** |
+| Yesterday (June 02, 2024) | **modal** |
+| Today (June 03, 2024) | **gaunt** |
+| Tomorrow (June 04, 2024) | **clove** |
 
 
 ## Table of Contents
