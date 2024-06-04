@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 02, 2024) | **modal** |
-| Today (June 03, 2024) | **gaunt** |
-| Tomorrow (June 04, 2024) | **clove** |
+| Yesterday (June 03, 2024) | **gaunt** |
+| Today (June 04, 2024) | **clove** |
+| Tomorrow (June 05, 2024) | **enact** |
 
 
 ## Table of Contents
