@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 05, 2024) | **enact** |
-| Today (June 06, 2024) | **adorn** |
-| Tomorrow (June 07, 2024) | **roast** |
+| Yesterday (June 06, 2024) | **adorn** |
+| Today (June 07, 2024) | **roast** |
+| Tomorrow (June 08, 2024) | **speck** |
 
 
 ## Table of Contents
