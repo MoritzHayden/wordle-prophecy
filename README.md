@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 07, 2024) | **roast** |
-| Today (June 08, 2024) | **speck** |
-| Tomorrow (June 09, 2024) | **sheik** |
+| Yesterday (June 08, 2024) | **speck** |
+| Today (June 09, 2024) | **sheik** |
+| Tomorrow (June 10, 2024) | **missy** |
 
 
 ## Table of Contents
