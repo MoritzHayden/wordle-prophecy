@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 11, 2024) | **grunt** |
-| Today (June 12, 2024) | **snoop** |
-| Tomorrow (June 13, 2024) | **party** |
+| Yesterday (June 12, 2024) | **snoop** |
+| Today (June 13, 2024) | **party** |
+| Tomorrow (June 14, 2024) | **touch** |
 
 
 ## Table of Contents
