@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 12, 2024) | **snoop** |
-| Today (June 13, 2024) | **party** |
-| Tomorrow (June 14, 2024) | **touch** |
+| Yesterday (June 13, 2024) | **party** |
+| Today (June 14, 2024) | **touch** |
+| Tomorrow (June 15, 2024) | **mafia** |
 
 
 ## Table of Contents
