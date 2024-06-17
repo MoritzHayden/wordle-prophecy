@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 15, 2024) | **mafia** |
-| Today (June 16, 2024) | **emcee** |
-| Tomorrow (June 17, 2024) | **array** |
+| Yesterday (June 16, 2024) | **emcee** |
+| Today (June 17, 2024) | **array** |
+| Tomorrow (June 18, 2024) | **south** |
 
 
 ## Table of Contents
