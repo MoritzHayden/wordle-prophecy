@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 17, 2024) | **array** |
-| Today (June 18, 2024) | **south** |
-| Tomorrow (June 19, 2024) | **vapid** |
+| Yesterday (June 18, 2024) | **south** |
+| Today (June 19, 2024) | **vapid** |
+| Tomorrow (June 20, 2024) | **jelly** |
 
 
 ## Table of Contents
