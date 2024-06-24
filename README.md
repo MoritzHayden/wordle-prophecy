@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 22, 2024) | **angst** |
-| Today (June 23, 2024) | **tubal** |
-| Tomorrow (June 24, 2024) | **lower** |
+| Yesterday (June 23, 2024) | **tubal** |
+| Today (June 24, 2024) | **lower** |
+| Tomorrow (June 25, 2024) | **crest** |
 
 
 ## Table of Contents
