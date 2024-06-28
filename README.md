@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 26, 2024) | **sweat** |
-| Today (June 27, 2024) | **cyber** |
-| Tomorrow (June 28, 2024) | **adore** |
+| Yesterday (June 27, 2024) | **cyber** |
+| Today (June 28, 2024) | **adore** |
+| Tomorrow (June 29, 2024) | **tardy** |
 
 
 ## Table of Contents
