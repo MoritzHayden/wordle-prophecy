@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 27, 2024) | **cyber** |
-| Today (June 28, 2024) | **adore** |
-| Tomorrow (June 29, 2024) | **tardy** |
+| Yesterday (June 28, 2024) | **adore** |
+| Today (June 29, 2024) | **tardy** |
+| Tomorrow (June 30, 2024) | **swami** |
 
 
 ## Table of Contents
