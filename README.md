@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (June 30, 2024) | **swami** |
-| Today (July 01, 2024) | **notch** |
-| Tomorrow (July 02, 2024) | **groom** |
+| Yesterday (July 01, 2024) | **notch** |
+| Today (July 02, 2024) | **groom** |
+| Tomorrow (July 03, 2024) | **roach** |
 
 
 ## Table of Contents
