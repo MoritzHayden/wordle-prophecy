@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 01, 2024) | **notch** |
-| Today (July 02, 2024) | **groom** |
-| Tomorrow (July 03, 2024) | **roach** |
+| Yesterday (July 02, 2024) | **groom** |
+| Today (July 03, 2024) | **roach** |
+| Tomorrow (July 04, 2024) | **hitch** |
 
 
 ## Table of Contents
