@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 07, 2024) | **ready** |
-| Today (July 08, 2024) | **frond** |
-| Tomorrow (July 09, 2024) | **strap** |
+| Yesterday (July 08, 2024) | **frond** |
+| Today (July 09, 2024) | **strap** |
+| Tomorrow (July 10, 2024) | **puree** |
 
 
 ## Table of Contents
