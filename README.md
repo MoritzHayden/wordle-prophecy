@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 11, 2024) | **realm** |
-| Today (July 12, 2024) | **venue** |
-| Tomorrow (July 13, 2024) | **swarm** |
+| Yesterday (July 12, 2024) | **venue** |
+| Today (July 13, 2024) | **swarm** |
+| Tomorrow (July 14, 2024) | **offer** |
 
 
 ## Table of Contents
