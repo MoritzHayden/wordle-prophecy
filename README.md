@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 12, 2024) | **venue** |
-| Today (July 13, 2024) | **swarm** |
-| Tomorrow (July 14, 2024) | **offer** |
+| Yesterday (July 13, 2024) | **swarm** |
+| Today (July 14, 2024) | **offer** |
+| Tomorrow (July 15, 2024) | **seven** |
 
 
 ## Table of Contents
