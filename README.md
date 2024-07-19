@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 17, 2024) | **diary** |
-| Today (July 18, 2024) | **dryly** |
-| Tomorrow (July 19, 2024) | **drank** |
+| Yesterday (July 18, 2024) | **dryly** |
+| Today (July 19, 2024) | **drank** |
+| Tomorrow (July 20, 2024) | **acrid** |
 
 
 ## Table of Contents
