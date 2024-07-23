@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 21, 2024) | **heady** |
-| Today (July 22, 2024) | **theta** |
-| Tomorrow (July 23, 2024) | **junto** |
+| Yesterday (July 22, 2024) | **theta** |
+| Today (July 23, 2024) | **junto** |
+| Tomorrow (July 24, 2024) | **pixie** |
 
 
 ## Table of Contents
