@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 25, 2024) | **quoth** |
-| Today (July 26, 2024) | **bonus** |
-| Tomorrow (July 27, 2024) | **shalt** |
+| Yesterday (July 26, 2024) | **bonus** |
+| Today (July 27, 2024) | **shalt** |
+| Tomorrow (July 28, 2024) | **penne** |
 
 
 ## Table of Contents
