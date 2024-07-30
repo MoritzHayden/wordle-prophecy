@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (July 28, 2024) | **penne** |
-| Today (July 29, 2024) | **amend** |
-| Tomorrow (July 30, 2024) | **datum** |
+| Yesterday (July 29, 2024) | **amend** |
+| Today (July 30, 2024) | **datum** |
+| Tomorrow (July 31, 2024) | **build** |
 
 
 ## Table of Contents
