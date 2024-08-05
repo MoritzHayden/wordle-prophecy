@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 03, 2024) | **lodge** |
-| Today (August 04, 2024) | **suing** |
-| Tomorrow (August 05, 2024) | **rearm** |
+| Yesterday (August 04, 2024) | **suing** |
+| Today (August 05, 2024) | **rearm** |
+| Tomorrow (August 06, 2024) | **coral** |
 
 
 ## Table of Contents
