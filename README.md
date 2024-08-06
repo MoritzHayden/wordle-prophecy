@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 04, 2024) | **suing** |
-| Today (August 05, 2024) | **rearm** |
-| Tomorrow (August 06, 2024) | **coral** |
+| Yesterday (August 05, 2024) | **rearm** |
+| Today (August 06, 2024) | **coral** |
+| Tomorrow (August 07, 2024) | **ramen** |
 
 
 ## Table of Contents
