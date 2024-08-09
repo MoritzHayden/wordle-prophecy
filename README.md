@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 07, 2024) | **ramen** |
-| Today (August 08, 2024) | **worth** |
-| Tomorrow (August 09, 2024) | **psalm** |
+| Yesterday (August 08, 2024) | **worth** |
+| Today (August 09, 2024) | **psalm** |
+| Tomorrow (August 10, 2024) | **infer** |
 
 
 ## Table of Contents
