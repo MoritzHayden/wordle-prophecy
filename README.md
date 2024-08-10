@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 08, 2024) | **worth** |
-| Today (August 09, 2024) | **psalm** |
-| Tomorrow (August 10, 2024) | **infer** |
+| Yesterday (August 09, 2024) | **psalm** |
+| Today (August 10, 2024) | **infer** |
+| Tomorrow (August 11, 2024) | **overt** |
 
 
 ## Table of Contents
