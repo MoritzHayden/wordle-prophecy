@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 10, 2024) | **infer** |
-| Today (August 11, 2024) | **overt** |
-| Tomorrow (August 12, 2024) | **mayor** |
+| Yesterday (August 11, 2024) | **overt** |
+| Today (August 12, 2024) | **mayor** |
+| Tomorrow (August 13, 2024) | **ovoid** |
 
 
 ## Table of Contents
