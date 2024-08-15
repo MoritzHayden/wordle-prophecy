@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 13, 2024) | **ovoid** |
-| Today (August 14, 2024) | **glide** |
-| Tomorrow (August 15, 2024) | **usage** |
+| Yesterday (August 14, 2024) | **glide** |
+| Today (August 15, 2024) | **usage** |
+| Tomorrow (August 16, 2024) | **poise** |
 
 
 ## Table of Contents
