@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 16, 2024) | **poise** |
-| Today (August 17, 2024) | **randy** |
-| Tomorrow (August 18, 2024) | **chuck** |
+| Yesterday (August 17, 2024) | **randy** |
+| Today (August 18, 2024) | **chuck** |
+| Tomorrow (August 19, 2024) | **prank** |
 
 
 ## Table of Contents
