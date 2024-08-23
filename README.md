@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 21, 2024) | **tooth** |
-| Today (August 22, 2024) | **ether** |
-| Tomorrow (August 23, 2024) | **drove** |
+| Yesterday (August 22, 2024) | **ether** |
+| Today (August 23, 2024) | **drove** |
+| Tomorrow (August 24, 2024) | **idler** |
 
 
 ## Table of Contents
