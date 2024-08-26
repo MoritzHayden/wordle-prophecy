@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 24, 2024) | **idler** |
-| Today (August 25, 2024) | **swath** |
-| Tomorrow (August 26, 2024) | **stint** |
+| Yesterday (August 25, 2024) | **swath** |
+| Today (August 26, 2024) | **stint** |
+| Tomorrow (August 27, 2024) | **while** |
 
 
 ## Table of Contents
