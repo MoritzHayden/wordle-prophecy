@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 28, 2024) | **begat** |
-| Today (August 29, 2024) | **apply** |
-| Tomorrow (August 30, 2024) | **slang** |
+| Yesterday (August 29, 2024) | **apply** |
+| Today (August 30, 2024) | **slang** |
+| Tomorrow (August 31, 2024) | **tarot** |
 
 
 ## Table of Contents
