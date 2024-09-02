@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (August 31, 2024) | **tarot** |
-| Today (September 01, 2024) | **radar** |
-| Tomorrow (September 02, 2024) | **credo** |
+| Yesterday (September 01, 2024) | **radar** |
+| Today (September 02, 2024) | **credo** |
+| Tomorrow (September 03, 2024) | **aware** |
 
 
 ## Table of Contents
