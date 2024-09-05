@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 03, 2024) | **aware** |
-| Today (September 04, 2024) | **canon** |
-| Tomorrow (September 05, 2024) | **shift** |
+| Yesterday (September 04, 2024) | **canon** |
+| Today (September 05, 2024) | **shift** |
+| Tomorrow (September 06, 2024) | **timer** |
 
 
 ## Table of Contents
