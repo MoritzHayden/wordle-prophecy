@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 05, 2024) | **shift** |
-| Today (September 06, 2024) | **timer** |
-| Tomorrow (September 07, 2024) | **bylaw** |
+| Yesterday (September 06, 2024) | **timer** |
+| Today (September 07, 2024) | **bylaw** |
+| Tomorrow (September 08, 2024) | **serum** |
 
 
 ## Table of Contents
