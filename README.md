@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 06, 2024) | **timer** |
-| Today (September 07, 2024) | **bylaw** |
-| Tomorrow (September 08, 2024) | **serum** |
+| Yesterday (September 07, 2024) | **bylaw** |
+| Today (September 08, 2024) | **serum** |
+| Tomorrow (September 09, 2024) | **three** |
 
 
 ## Table of Contents
