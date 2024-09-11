@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 09, 2024) | **three** |
-| Today (September 10, 2024) | **steak** |
-| Tomorrow (September 11, 2024) | **iliac** |
+| Yesterday (September 10, 2024) | **steak** |
+| Today (September 11, 2024) | **iliac** |
+| Tomorrow (September 12, 2024) | **shirk** |
 
 
 ## Table of Contents
