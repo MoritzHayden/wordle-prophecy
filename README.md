@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 11, 2024) | **iliac** |
-| Today (September 12, 2024) | **shirk** |
-| Tomorrow (September 13, 2024) | **blunt** |
+| Yesterday (September 12, 2024) | **shirk** |
+| Today (September 13, 2024) | **blunt** |
+| Tomorrow (September 14, 2024) | **puppy** |
 
 
 ## Table of Contents
