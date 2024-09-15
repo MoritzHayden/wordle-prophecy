@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 13, 2024) | **blunt** |
-| Today (September 14, 2024) | **puppy** |
-| Tomorrow (September 15, 2024) | **penal** |
+| Yesterday (September 14, 2024) | **puppy** |
+| Today (September 15, 2024) | **penal** |
+| Tomorrow (September 16, 2024) | **joist** |
 
 
 ## Table of Contents
