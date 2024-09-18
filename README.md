@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 16, 2024) | **joist** |
-| Today (September 17, 2024) | **bunny** |
-| Tomorrow (September 18, 2024) | **shape** |
+| Yesterday (September 17, 2024) | **bunny** |
+| Today (September 18, 2024) | **shape** |
+| Tomorrow (September 19, 2024) | **beget** |
 
 
 ## Table of Contents
