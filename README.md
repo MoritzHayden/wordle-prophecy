@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 20, 2024) | **wheel** |
-| Today (September 21, 2024) | **adept** |
-| Tomorrow (September 22, 2024) | **stunt** |
+| Yesterday (September 21, 2024) | **adept** |
+| Today (September 22, 2024) | **stunt** |
+| Tomorrow (September 23, 2024) | **stole** |
 
 
 ## Table of Contents
