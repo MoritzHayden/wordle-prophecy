@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 21, 2024) | **adept** |
-| Today (September 22, 2024) | **stunt** |
-| Tomorrow (September 23, 2024) | **stole** |
+| Yesterday (September 22, 2024) | **stunt** |
+| Today (September 23, 2024) | **stole** |
+| Tomorrow (September 24, 2024) | **topaz** |
 
 
 ## Table of Contents
