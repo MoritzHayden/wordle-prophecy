@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 26, 2024) | **fluke** |
-| Today (September 27, 2024) | **afoot** |
-| Tomorrow (September 28, 2024) | **bloat** |
+| Yesterday (September 27, 2024) | **afoot** |
+| Today (September 28, 2024) | **bloat** |
+| Tomorrow (September 29, 2024) | **bully** |
 
 
 ## Table of Contents
