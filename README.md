@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (September 29, 2024) | **bully** |
-| Today (September 30, 2024) | **dense** |
-| Tomorrow (October 01, 2024) | **caper** |
+| Yesterday (September 30, 2024) | **dense** |
+| Today (October 01, 2024) | **caper** |
+| Tomorrow (October 02, 2024) | **sneer** |
 
 
 ## Table of Contents
