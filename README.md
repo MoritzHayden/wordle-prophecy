@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 01, 2024) | **caper** |
-| Today (October 02, 2024) | **sneer** |
-| Tomorrow (October 03, 2024) | **boxer** |
+| Yesterday (October 02, 2024) | **sneer** |
+| Today (October 03, 2024) | **boxer** |
+| Tomorrow (October 04, 2024) | **jumbo** |
 
 
 ## Table of Contents
