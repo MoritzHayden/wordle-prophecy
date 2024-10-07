@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 05, 2024) | **lunge** |
-| Today (October 06, 2024) | **space** |
-| Tomorrow (October 07, 2024) | **avail** |
+| Yesterday (October 06, 2024) | **space** |
+| Today (October 07, 2024) | **avail** |
+| Tomorrow (October 08, 2024) | **short** |
 
 
 ## Table of Contents
