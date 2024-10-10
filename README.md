@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 08, 2024) | **short** |
-| Today (October 09, 2024) | **slurp** |
-| Tomorrow (October 10, 2024) | **loyal** |
+| Yesterday (October 09, 2024) | **slurp** |
+| Today (October 10, 2024) | **loyal** |
+| Tomorrow (October 11, 2024) | **flirt** |
 
 
 ## Table of Contents
