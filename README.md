@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 11, 2024) | **flirt** |
-| Today (October 12, 2024) | **pizza** |
-| Tomorrow (October 13, 2024) | **conch** |
+| Yesterday (October 12, 2024) | **pizza** |
+| Today (October 13, 2024) | **conch** |
+| Tomorrow (October 14, 2024) | **tempo** |
 
 
 ## Table of Contents
