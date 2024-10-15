@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 13, 2024) | **conch** |
-| Today (October 14, 2024) | **tempo** |
-| Tomorrow (October 15, 2024) | **droop** |
+| Yesterday (October 14, 2024) | **tempo** |
+| Today (October 15, 2024) | **droop** |
+| Tomorrow (October 16, 2024) | **plate** |
 
 
 ## Table of Contents
