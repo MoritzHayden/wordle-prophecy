@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 15, 2024) | **droop** |
-| Today (October 16, 2024) | **plate** |
-| Tomorrow (October 17, 2024) | **bible** |
+| Yesterday (October 16, 2024) | **plate** |
+| Today (October 17, 2024) | **bible** |
+| Tomorrow (October 18, 2024) | **plunk** |
 
 
 ## Table of Contents
