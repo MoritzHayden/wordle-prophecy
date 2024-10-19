@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 17, 2024) | **bible** |
-| Today (October 18, 2024) | **plunk** |
-| Tomorrow (October 19, 2024) | **afoul** |
+| Yesterday (October 18, 2024) | **plunk** |
+| Today (October 19, 2024) | **afoul** |
+| Tomorrow (October 20, 2024) | **savoy** |
 
 
 ## Table of Contents
