@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 19, 2024) | **afoul** |
-| Today (October 20, 2024) | **savoy** |
-| Tomorrow (October 21, 2024) | **steep** |
+| Yesterday (October 20, 2024) | **savoy** |
+| Today (October 21, 2024) | **steep** |
+| Tomorrow (October 22, 2024) | **agile** |
 
 
 ## Table of Contents
