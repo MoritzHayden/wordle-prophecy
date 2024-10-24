@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 22, 2024) | **agile** |
-| Today (October 23, 2024) | **stake** |
-| Tomorrow (October 24, 2024) | **dwell** |
+| Yesterday (October 23, 2024) | **stake** |
+| Today (October 24, 2024) | **dwell** |
+| Tomorrow (October 25, 2024) | **knave** |
 
 
 ## Table of Contents
