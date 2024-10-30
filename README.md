@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (October 28, 2024) | **motif** |
-| Today (October 29, 2024) | **smash** |
-| Tomorrow (October 30, 2024) | **broil** |
+| Yesterday (October 29, 2024) | **smash** |
+| Today (October 30, 2024) | **broil** |
+| Tomorrow (October 31, 2024) | **glare** |
 
 
 ## Table of Contents
