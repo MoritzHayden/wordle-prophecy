@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 02, 2024) | **baggy** |
-| Today (November 03, 2024) | **mammy** |
-| Tomorrow (November 04, 2024) | **swamp** |
+| Yesterday (November 03, 2024) | **mammy** |
+| Today (November 04, 2024) | **swamp** |
+| Tomorrow (November 05, 2024) | **along** |
 
 
 ## Table of Contents
