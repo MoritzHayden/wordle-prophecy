@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 04, 2024) | **swamp** |
-| Today (November 05, 2024) | **along** |
-| Tomorrow (November 06, 2024) | **rugby** |
+| Yesterday (November 05, 2024) | **along** |
+| Today (November 06, 2024) | **rugby** |
+| Tomorrow (November 07, 2024) | **wager** |
 
 
 ## Table of Contents
