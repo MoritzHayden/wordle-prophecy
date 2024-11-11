@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 09, 2024) | **squat** |
-| Today (November 10, 2024) | **snaky** |
-| Tomorrow (November 11, 2024) | **debit** |
+| Yesterday (November 10, 2024) | **snaky** |
+| Today (November 11, 2024) | **debit** |
+| Tomorrow (November 12, 2024) | **mange** |
 
 
 ## Table of Contents
