@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 12, 2024) | **mange** |
-| Today (November 13, 2024) | **skate** |
-| Tomorrow (November 14, 2024) | **ninth** |
+| Yesterday (November 13, 2024) | **skate** |
+| Today (November 14, 2024) | **ninth** |
+| Tomorrow (November 15, 2024) | **joust** |
 
 
 ## Table of Contents
