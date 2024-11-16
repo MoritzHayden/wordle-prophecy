@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 14, 2024) | **ninth** |
-| Today (November 15, 2024) | **joust** |
-| Tomorrow (November 16, 2024) | **tramp** |
+| Yesterday (November 15, 2024) | **joust** |
+| Today (November 16, 2024) | **tramp** |
+| Tomorrow (November 17, 2024) | **spurn** |
 
 
 ## Table of Contents
