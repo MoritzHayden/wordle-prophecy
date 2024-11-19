@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 17, 2024) | **spurn** |
-| Today (November 18, 2024) | **medal** |
-| Tomorrow (November 19, 2024) | **micro** |
+| Yesterday (November 18, 2024) | **medal** |
+| Today (November 19, 2024) | **micro** |
+| Tomorrow (November 20, 2024) | **rebel** |
 
 
 ## Table of Contents
