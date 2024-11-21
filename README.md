@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 19, 2024) | **micro** |
-| Today (November 20, 2024) | **rebel** |
-| Tomorrow (November 21, 2024) | **flank** |
+| Yesterday (November 20, 2024) | **rebel** |
+| Today (November 21, 2024) | **flank** |
+| Tomorrow (November 22, 2024) | **learn** |
 
 
 ## Table of Contents
