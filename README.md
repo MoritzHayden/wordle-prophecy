@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 26, 2024) | **remit** |
-| Today (November 27, 2024) | **gruff** |
-| Tomorrow (November 28, 2024) | **ester** |
+| Yesterday (November 27, 2024) | **gruff** |
+| Today (November 28, 2024) | **ester** |
+| Tomorrow (November 29, 2024) | **least** |
 
 
 ## Table of Contents
