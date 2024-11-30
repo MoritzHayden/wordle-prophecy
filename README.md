@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (November 28, 2024) | **ester** |
-| Today (November 29, 2024) | **least** |
-| Tomorrow (November 30, 2024) | **mogul** |
+| Yesterday (November 29, 2024) | **least** |
+| Today (November 30, 2024) | **mogul** |
+| Tomorrow (December 01, 2024) | **fetch** |
 
 
 ## Table of Contents
