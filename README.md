@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 01, 2024) | **fetch** |
-| Today (December 02, 2024) | **cause** |
-| Tomorrow (December 03, 2024) | **oaken** |
+| Yesterday (December 02, 2024) | **cause** |
+| Today (December 03, 2024) | **oaken** |
+| Tomorrow (December 04, 2024) | **aglow** |
 
 
 ## Table of Contents
