@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 03, 2024) | **oaken** |
-| Today (December 04, 2024) | **aglow** |
-| Tomorrow (December 05, 2024) | **meaty** |
+| Yesterday (December 04, 2024) | **aglow** |
+| Today (December 05, 2024) | **meaty** |
+| Tomorrow (December 06, 2024) | **gaffe** |
 
 
 ## Table of Contents
