@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 06, 2024) | **gaffe** |
-| Today (December 07, 2024) | **shyly** |
-| Tomorrow (December 08, 2024) | **racer** |
+| Yesterday (December 07, 2024) | **shyly** |
+| Today (December 08, 2024) | **racer** |
+| Tomorrow (December 09, 2024) | **prowl** |
 
 
 ## Table of Contents
