@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 10, 2024) | **thief** |
-| Today (December 11, 2024) | **stern** |
-| Tomorrow (December 12, 2024) | **poesy** |
+| Yesterday (December 11, 2024) | **stern** |
+| Today (December 12, 2024) | **poesy** |
+| Tomorrow (December 13, 2024) | **rocky** |
 
 
 ## Table of Contents
