@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 13, 2024) | **rocky** |
-| Today (December 14, 2024) | **tweet** |
-| Tomorrow (December 15, 2024) | **waist** |
+| Yesterday (December 14, 2024) | **tweet** |
+| Today (December 15, 2024) | **waist** |
+| Tomorrow (December 16, 2024) | **spire** |
 
 
 ## Table of Contents
