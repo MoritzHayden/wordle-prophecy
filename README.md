@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 15, 2024) | **waist** |
-| Today (December 16, 2024) | **spire** |
-| Tomorrow (December 17, 2024) | **grope** |
+| Yesterday (December 16, 2024) | **spire** |
+| Today (December 17, 2024) | **grope** |
+| Tomorrow (December 18, 2024) | **havoc** |
 
 
 ## Table of Contents
