@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 19, 2024) | **patsy** |
-| Today (December 20, 2024) | **truly** |
-| Tomorrow (December 21, 2024) | **forty** |
+| Yesterday (December 20, 2024) | **truly** |
+| Today (December 21, 2024) | **forty** |
+| Tomorrow (December 22, 2024) | **deity** |
 
 
 ## Table of Contents
