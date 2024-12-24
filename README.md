@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 22, 2024) | **deity** |
-| Today (December 23, 2024) | **uncle** |
-| Tomorrow (December 24, 2024) | **swish** |
+| Yesterday (December 23, 2024) | **uncle** |
+| Today (December 24, 2024) | **swish** |
+| Tomorrow (December 25, 2024) | **giver** |
 
 
 ## Table of Contents
