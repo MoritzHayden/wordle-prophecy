@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 24, 2024) | **swish** |
-| Today (December 25, 2024) | **giver** |
-| Tomorrow (December 26, 2024) | **preen** |
+| Yesterday (December 25, 2024) | **giver** |
+| Today (December 26, 2024) | **preen** |
+| Tomorrow (December 27, 2024) | **bevel** |
 
 
 ## Table of Contents
