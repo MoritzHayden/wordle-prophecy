@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 27, 2024) | **bevel** |
-| Today (December 28, 2024) | **lemur** |
-| Tomorrow (December 29, 2024) | **draft** |
+| Yesterday (December 28, 2024) | **lemur** |
+| Today (December 29, 2024) | **draft** |
+| Tomorrow (December 30, 2024) | **slope** |
 
 
 ## Table of Contents
