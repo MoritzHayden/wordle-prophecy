@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (December 30, 2024) | **slope** |
-| Today (December 31, 2024) | **annoy** |
-| Tomorrow (January 01, 2025) | **lingo** |
+| Yesterday (December 31, 2024) | **annoy** |
+| Today (January 01, 2025) | **lingo** |
+| Tomorrow (January 02, 2025) | **bleak** |
 
 
 ## Table of Contents
