@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 04, 2025) | **curly** |
-| Today (January 05, 2025) | **cedar** |
-| Tomorrow (January 06, 2025) | **dirge** |
+| Yesterday (January 05, 2025) | **cedar** |
+| Today (January 06, 2025) | **dirge** |
+| Tomorrow (January 07, 2025) | **grown** |
 
 
 ## Table of Contents
