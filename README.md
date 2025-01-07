@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 05, 2025) | **cedar** |
-| Today (January 06, 2025) | **dirge** |
-| Tomorrow (January 07, 2025) | **grown** |
+| Yesterday (January 06, 2025) | **dirge** |
+| Today (January 07, 2025) | **grown** |
+| Tomorrow (January 08, 2025) | **horde** |
 
 
 ## Table of Contents
