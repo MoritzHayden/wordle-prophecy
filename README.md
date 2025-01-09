@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 07, 2025) | **grown** |
-| Today (January 08, 2025) | **horde** |
-| Tomorrow (January 09, 2025) | **drool** |
+| Yesterday (January 08, 2025) | **horde** |
+| Today (January 09, 2025) | **drool** |
+| Tomorrow (January 10, 2025) | **shuck** |
 
 
 ## Table of Contents
