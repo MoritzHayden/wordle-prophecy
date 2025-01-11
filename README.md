@@ -4,9 +4,9 @@
 
 | Date | Answer |
 | --- | --- |
-| Yesterday (January 09, 2025) | **drool** |
-| Today (January 10, 2025) | **shuck** |
-| Tomorrow (January 11, 2025) | **crypt** |
+| Yesterday (January 10, 2025) | **shuck** |
+| Today (January 11, 2025) | **crypt** |
+| Tomorrow (January 12, 2025) | **cumin** |
 
 
 ## Table of Contents
